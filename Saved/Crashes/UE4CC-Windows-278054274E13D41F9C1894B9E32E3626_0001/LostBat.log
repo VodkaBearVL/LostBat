@@ -1,0 +1,819 @@
+﻿Log file open, 01/29/21 14:42:00
+LogInit: Display: Running engine for game: LostBat
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.552193
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i5-6600 CPU @ 3.30GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GameProjects/GGJ21/LostBat/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.01.29-14.42.01:587][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.29-14.42.01:587][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.29-14.42.01:587][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GameProjects/GGJ21/LostBat/Saved/Config/Windows/Engine.ini]
+[2021.01.29-14.42.01:587][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.29-14.42.01:587][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2021.01.29-14.42.01:587][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GameProjects/GGJ21/LostBat/Saved/Config/Windows/Engine.ini]
+[2021.01.29-14.42.01:587][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GameProjects/GGJ21/LostBat/Saved/Config/Windows/Engine.ini]
+[2021.01.29-14.42.01:587][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.29-14.42.01:587][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.29-14.42.01:587][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.29-14.42.01:587][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.29-14.42.01:587][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.29-14.42.01:587][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.29-14.42.01:587][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.29-14.42.01:587][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.29-14.42.01:587][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.29-14.42.01:587][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.29-14.42.01:587][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.29-14.42.01:588][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.29-14.42.01:588][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.29-14.42.01:588][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.01.29-14.42.01:588][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GameProjects/GGJ21/LostBat/Saved/Config/Windows/Engine.ini]
+[2021.01.29-14.42.01:588][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.29-14.42.01:588][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.29-14.42.01:588][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.29-14.42.01:588][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.29-14.42.01:588][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.29-14.42.01:588][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.29-14.42.01:588][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.01.29-14.42.01:588][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.29-14.42.01:588][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.29-14.42.01:588][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.29-14.42.01:588][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.29-14.42.01:588][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.29-14.42.01:588][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.29-14.42.01:588][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GameProjects/GGJ21/LostBat/Saved/Config/Windows/Engine.ini]
+[2021.01.29-14.42.01:588][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GameProjects/GGJ21/LostBat/Saved/Config/Windows/Engine.ini]
+[2021.01.29-14.42.01:592][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GameProjects/GGJ21/LostBat/Saved/Config/Windows/Scalability.ini]
+[2021.01.29-14.42.01:592][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.29-14.42.01:592][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.29-14.42.01:592][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GameProjects/GGJ21/LostBat/Saved/Config/Windows/Scalability.ini]
+[2021.01.29-14.42.01:592][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.29-14.42.01:592][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GameProjects/GGJ21/LostBat/Saved/Config/Windows/Scalability.ini]
+[2021.01.29-14.42.01:592][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.29-14.42.01:592][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.29-14.42.01:592][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GameProjects/GGJ21/LostBat/Saved/Config/Windows/Scalability.ini]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GameProjects/GGJ21/LostBat/Saved/Config/Windows/Scalability.ini]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GameProjects/GGJ21/LostBat/Saved/Config/Windows/Scalability.ini]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.01.29-14.42.01:593][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.29-14.42.01:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.29-14.42.01:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.29-14.42.01:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.01.29-14.42.01:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.29-14.42.01:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.01.29-14.42.01:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.29-14.42.01:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.29-14.42.01:594][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.29-14.42.01:594][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GameProjects/GGJ21/LostBat/Saved/Config/Windows/Scalability.ini]
+[2021.01.29-14.42.01:594][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.29-14.42.01:594][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.29-14.42.01:594][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GameProjects/GGJ21/LostBat/Saved/Config/Windows/Scalability.ini]
+[2021.01.29-14.42.01:594][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.01.29-14.42.01:594][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.01.29-14.42.01:594][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.01.29-14.42.01:594][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.01.29-14.42.01:594][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.01.29-14.42.01:594][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.01.29-14.42.01:594][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.01.29-14.42.01:594][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.29-14.42.01:594][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.29-14.42.01:595][  0]LogHAL: Display: Platform has ~ 8 GB [8463282176 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.29-14.42.01:596][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.29-14.42.01:596][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [D:/GameProjects/GGJ21/LostBat/Saved/Config/Windows/Scalability.ini]
+[2021.01.29-14.42.01:596][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2021.01.29-14.42.01:596][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2021.01.29-14.42.01:596][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [D:/GameProjects/GGJ21/LostBat/Saved/Config/Windows/Scalability.ini]
+[2021.01.29-14.42.01:596][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2021.01.29-14.42.01:596][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [D:/GameProjects/GGJ21/LostBat/Saved/Config/Windows/Scalability.ini]
+[2021.01.29-14.42.01:596][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.29-14.42.01:596][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2021.01.29-14.42.01:596][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2021.01.29-14.42.01:596][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2021.01.29-14.42.01:596][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2021.01.29-14.42.01:596][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2021.01.29-14.42.01:596][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2021.01.29-14.42.01:596][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2021.01.29-14.42.01:596][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2021.01.29-14.42.01:596][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2021.01.29-14.42.01:596][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2021.01.29-14.42.01:596][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2021.01.29-14.42.01:596][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2021.01.29-14.42.01:596][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.29-14.42.01:596][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [D:/GameProjects/GGJ21/LostBat/Saved/Config/Windows/Scalability.ini]
+[2021.01.29-14.42.01:596][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2021.01.29-14.42.01:596][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2021.01.29-14.42.01:596][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2021.01.29-14.42.01:596][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.29-14.42.01:596][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2021.01.29-14.42.01:596][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2021.01.29-14.42.01:596][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2021.01.29-14.42.01:596][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.01.29-14.42.01:596][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.01.29-14.42.01:596][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2021.01.29-14.42.01:596][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2021.01.29-14.42.01:596][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2021.01.29-14.42.01:596][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2021.01.29-14.42.01:596][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2021.01.29-14.42.01:596][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [D:/GameProjects/GGJ21/LostBat/Saved/Config/Windows/Scalability.ini]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [D:/GameProjects/GGJ21/LostBat/Saved/Config/Windows/Scalability.ini]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.SSGI.Quality:1]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [D:/GameProjects/GGJ21/LostBat/Saved/Config/Windows/Scalability.ini]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GameProjects/GGJ21/LostBat/Saved/Config/Windows/Scalability.ini]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.01.29-14.42.01:597][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.29-14.42.01:605][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.29-14.42.01:605][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.01.29-14.42.01:605][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.01.29-14.42.01:605][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GameProjects/GGJ21/LostBat/Saved/Config/Windows/Engine.ini]
+[2021.01.29-14.42.01:607][  0]LogInit: Computer: VALERY
+[2021.01.29-14.42.01:607][  0]LogInit: User: Valery
+[2021.01.29-14.42.01:607][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.01.29-14.42.01:607][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.29-14.42.01:607][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.01.29-14.42.01:607][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.29-14.42.01:607][  0]LogMemory: Process Physical Memory: 114.26 MB used, 114.26 MB peak
+[2021.01.29-14.42.01:607][  0]LogMemory: Process Virtual Memory: 95.35 MB used, 95.35 MB peak
+[2021.01.29-14.42.01:607][  0]LogMemory: Physical Memory: 2825.59 MB used,  5245.62 MB free, 8071.21 MB total
+[2021.01.29-14.42.01:607][  0]LogMemory: Virtual Memory: 5128.52 MB used,  134212600.00 MB free, 134217728.00 MB total
+[2021.01.29-14.42.01:614][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.01.29-14.42.01:706][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.01.29-14.42.01:707][  0]LogInit: Using OS detected language (en-US).
+[2021.01.29-14.42.01:708][  0]LogInit: Using OS detected locale (en-US).
+[2021.01.29-14.42.01:731][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.01.29-14.42.02:092][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.29-14.42.02:175][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.29-14.42.02:175][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.29-14.42.05:328][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.29-14.42.05:328][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.01.29-14.42.05:328][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.01.29-14.42.05:328][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.29-14.42.05:434][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2021.01.29-14.42.05:434][  0]LogD3D11RHI:       128/0/4035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2021.01.29-14.42.05:436][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.29-14.42.05:436][  0]LogD3D11RHI:       0/0/4035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.29-14.42.05:436][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.29-14.42.05:442][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.29-14.42.05:443][  0]LogD3D11RHI:     GPU DeviceId: 0x1912 (for the marketing name, search the web for "GPU Device Id")
+[2021.01.29-14.42.05:443][  0]LogWindows: EnumDisplayDevices:
+[2021.01.29-14.42.05:444][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2021.01.29-14.42.05:444][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2021.01.29-14.42.05:444][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2021.01.29-14.42.05:444][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2021.01.29-14.42.05:444][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 530
+[2021.01.29-14.42.05:444][  0]LogD3D11RHI:   Driver Version: 26.20.100.7757 (internal:26.20.100.7757, unified:26.20.100.7757)
+[2021.01.29-14.42.05:444][  0]LogD3D11RHI:      Driver Date: 1-9-2020
+[2021.01.29-14.42.05:445][  0]LogRHI: Texture pool is 1502 MB (70% of 2145 MB)
+[2021.01.29-14.42.05:627][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2021.01.29-14.42.05:632][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2021.01.29-14.42.05:632][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.29-14.42.05:632][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.01.29-14.42.05:650][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2021.01.29-14.42.05:995][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.01.29-14.42.06:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.01.29-14.42.06:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.01.29-14.42.06:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.01.29-14.42.06:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.01.29-14.42.06:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.01.29-14.42.06:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.01.29-14.42.06:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.01.29-14.42.06:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.01.29-14.42.06:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.01.29-14.42.06:019][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.01.29-14.42.06:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.01.29-14.42.06:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.01.29-14.42.06:075][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.01.29-14.42.06:085][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.01.29-14.42.06:095][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.01.29-14.42.06:105][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.01.29-14.42.06:115][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.01.29-14.42.06:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.01.29-14.42.06:134][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.01.29-14.42.06:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.01.29-14.42.06:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.01.29-14.42.06:179][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.01.29-14.42.06:179][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.01.29-14.42.06:189][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.01.29-14.42.06:199][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.01.29-14.42.06:208][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.01.29-14.42.06:217][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.01.29-14.42.06:218][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.29-14.42.06:227][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.01.29-14.42.06:312][  0]LogShaderCompilers: Guid format shader working directory is 18 characters bigger than the processId version (D:/GameProjects/GGJ21/LostBat/Intermediate/Shaders/WorkingDirectory/1884/).
+[2021.01.29-14.42.06:312][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Valery/AppData/Local/Temp/UnrealShaderWorkingDir/A356C5E84535747CCCCEE0B65E7D2EBC/'.
+[2021.01.29-14.42.06:313][  0]LogXGEController: Cleaning working directory: C:/Users/Valery/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.01.29-14.42.06:313][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.01.29-14.42.06:313][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.29-14.42.06:313][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.29-14.42.09:916][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.29-14.42.10:009][  0]LogDerivedDataCache: Loaded boot cache 0.09s 75MB C:/Users/Valery/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.01.29-14.42.10:009][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Valery/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.01.29-14.42.10:009][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/GameProjects/GGJ21/LostBat/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.29-14.42.10:009][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.29-14.42.10:009][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/GameProjects/GGJ21/LostBat/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.29-14.42.10:009][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.29-14.42.10:030][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.29-14.42.10:030][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.29-14.42.10:030][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.29-14.42.10:031][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Valery/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.29-14.42.10:031][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.29-14.42.10:031][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.29-14.42.10:087][  0]LogSlate: Using FreeType 2.10.0
+[2021.01.29-14.42.10:108][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.29-14.42.10:164][  0]LogAssetRegistry: FAssetRegistry took 0.0040 seconds to start up
+[2021.01.29-14.42.10:482][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.29-14.42.10:739][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.29-14.42.10:739][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.01.29-14.42.10:739][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.29-14.42.10:739][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.01.29-14.42.10:739][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.01.29-14.42.10:800][  0]LogNetVersion: LostBat 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3475071208)
+[2021.01.29-14.42.12:268][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001C33FDC2AC0), frame # 0
+[2021.01.29-14.42.12:268][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C33FC4EAC0), frame # 0
+[2021.01.29-14.42.12:271][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C33FDBEA00), frame # 0
+[2021.01.29-14.42.12:357][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.058658 seconds
+[2021.01.29-14.42.12:363][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.01.29-14.42.12:363][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.01.29-14.42.12:363][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.29-14.42.13:223][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.29-14.42.13:230][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.29-14.42.13:384][  0]SourceControl: Source control is disabled
+[2021.01.29-14.42.13:384][  0]SourceControl: Source control is disabled
+[2021.01.29-14.42.13:392][  0]SourceControl: Source control is disabled
+[2021.01.29-14.42.13:398][  0]SourceControl: Source control is disabled
+[2021.01.29-14.42.13:410][  0]SourceControl: Source control is disabled
+[2021.01.29-14.42.13:855][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.29-14.42.13:881][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.29-14.42.13:881][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.29-14.42.13:994][  0]LogOcInput: OculusInput pre-init called
+[2021.01.29-14.42.14:014][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.01.29-14.42.14:014][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.01.29-14.42.14:178][  0]LogEngine: Initializing Engine...
+[2021.01.29-14.42.14:179][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.29-14.42.14:179][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.01.29-14.42.14:182][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.01.29-14.42.14:554][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.29-14.42.14:581][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.29-14.42.14:581][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C344F83C00), frame # 0
+[2021.01.29-14.42.14:581][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C344F7FB00), frame # 0
+[2021.01.29-14.42.14:589][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-14.42.14:589][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-14.42.14:589][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-14.42.14:589][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-14.42.14:589][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-14.42.14:589][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-14.42.14:589][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-14.42.14:589][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-14.42.14:590][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-14.42.14:590][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-14.42.14:613][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-14.42.14:613][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-14.42.14:649][  0]LogAudioMixer: Display: Using Audio Device Headphones (Synaptics HD Audio)
+[2021.01.29-14.42.14:653][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.29-14.42.14:685][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.29-14.42.14:685][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.29-14.42.14:687][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.29-14.42.14:688][  0]LogInit: FAudioDevice initialized.
+[2021.01.29-14.42.14:689][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.29-14.42.14:746][  0]LogDerivedDataCache: Saved boot cache 0.06s 75MB C:/Users/Valery/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.01.29-14.42.14:752][  0]LogInit: Texture streaming: Enabled
+[2021.01.29-14.42.14:773][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.29-14.42.14:773][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={E39E1AEB-4F52-467F-B406-94BB2E2BDF6F}
+[2021.01.29-14.42.14:773][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.01.29-14.42.14:776][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.01.29-14.42.14:843][  0]LogInit: Transaction tracking system initialized
+[2021.01.29-14.42.14:892][  0]BlueprintLog: New page: Editor Load
+[2021.01.29-14.42.15:079][  0]LocalizationService: Localization service is disabled
+[2021.01.29-14.42.16:101][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.01.29-14.42.16:101][  0]LogCook: Display: Mobile HDR setting 0
+[2021.01.29-14.42.16:341][  0]LogFileCache: Scanning file cache for directory 'D:/GameProjects/GGJ21/LostBat/Content/' took 0.00s
+[2021.01.29-14.42.16:585][  0]SourceControl: Source control is disabled
+[2021.01.29-14.42.16:700][  0]LogSlate: Took 0.007541 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.29-14.42.24:325][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2021.01.29-14.42.24:326][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.01.29-14.42.24:372][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.01.29-14.42.26:602][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2021.01.29-14.42.26:602][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.01.29-14.42.26:608][  0]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/MY_Assets/Tiles/Caves
+/Game/MY_BP/BP_BatRelative
+/Game/MY_BP/MY_Map
+[2021.01.29-14.42.26:684][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.01.29-14.42.26:685][  0]LogUnrealEdMisc: Loading editor; pre map load, took 31.245
+[2021.01.29-14.42.26:688][  0]Cmd: MAP LOAD FILE="D:/GameProjects/GGJ21/LostBat/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.29-14.42.26:700][  0]LightingResults: New page: Lighting Build
+[2021.01.29-14.42.26:704][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-14.42.26:705][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-14.42.26:705][  0]MapCheck: New page: Map Check
+[2021.01.29-14.42.26:705][  0]LightingResults: New page: Lighting Build
+[2021.01.29-14.42.26:720][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C344F83C00), frame # 0
+[2021.01.29-14.42.26:720][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C344F7FB00), frame # 0
+[2021.01.29-14.42.26:724][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.01.29-14.42.27:295][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.01.29-14.42.27:295][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C333E93E00), frame # 0
+[2021.01.29-14.42.27:295][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C33128F240), frame # 0
+[2021.01.29-14.42.27:314][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.29-14.42.27:383][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.01.29-14.42.27:383][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.29-14.42.27:384][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.098ms to complete.
+[2021.01.29-14.42.27:384][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.696
+[2021.01.29-14.42.27:399][  0]LogUnrealEdMisc: Total Editor Startup Time, took 31.959
+[2021.01.29-14.42.27:532][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-14.42.27:539][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-14.42.27:547][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-14.42.27:554][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-14.42.27:571][  0]LogCollectionManager: Loaded 0 collections in 0.001762 seconds
+[2021.01.29-14.42.27:597][  0]LogFileCache: Scanning file cache for directory 'D:/GameProjects/GGJ21/LostBat/Saved/Collections/' took 0.00s
+[2021.01.29-14.42.27:597][  0]LogFileCache: Scanning file cache for directory 'D:/GameProjects/GGJ21/LostBat/Content/Developers/Valery/Collections/' took 0.00s
+[2021.01.29-14.42.27:597][  0]LogFileCache: Scanning file cache for directory 'D:/GameProjects/GGJ21/LostBat/Content/Collections/' took 0.00s
+[2021.01.29-14.42.27:597][  0]LogContentBrowser: Native class hierarchy populated in 0.0106 seconds. Added 3427 classes and 821 folders.
+[2021.01.29-14.42.27:604][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.29-14.42.28:019][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.29-14.42.28:025][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.01.29-14.42.28:178][  0]LogSlate: Took 0.009619 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.29-14.42.28:189][  0]LogSlate: Took 0.007324 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.29-14.42.28:319][  0]LogRenderer: Reallocating scene render targets to support 1144x616 Format 9 NumSamples 1 (Frame:1).
+[2021.01.29-14.42.28:486][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.29-14.42.28:486][  0]LogLoad: (Engine Initialization) Total time: 33.05 seconds
+[2021.01.29-14.42.28:486][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.29-14.42.28:526][  0]LogAssetRegistry: Asset discovery search completed in 18.3632 seconds
+[2021.01.29-14.42.28:529][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.01.29-14.42.28:535][  0]LogContentStreaming: Texture pool size now 600 MB
+[2021.01.29-14.42.28:582][  0]LogSlate: Took 0.006686 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.29-14.42.29:594][ 27]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.29-14.43.03:094][107]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/MY_Assets/Tiles/Caves.Caves
+[2021.01.29-14.43.03:308][107]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MY_BP/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2021.01.29-14.43.03:851][107]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 125 classes and 0 folders.
+[2021.01.29-14.43.04:807][107]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MY_BP/BP_BatRelative.BP_BatRelative
+[2021.01.29-14.43.05:155][107]LogSlate: Took 0.007646 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.29-14.43.05:276][108]LogSlate: Took 0.015941 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.29-14.43.07:005][149]LogRenderer: Reallocating scene render targets to support 1144x920 Format 9 NumSamples 1 (Frame:1).
+[2021.01.29-14.48.29:377][949]Cmd: TRANSACTION UNDO
+[2021.01.29-14.48.29:377][949]LogEditorTransaction: Undo Tile Erasing
+[2021.01.29-14.48.38:955][ 88]Cmd: TRANSACTION UNDO
+[2021.01.29-14.48.38:956][ 88]LogEditorTransaction: Undo Tile Erasing
+[2021.01.29-14.48.40:165][127]Cmd: TRANSACTION UNDO
+[2021.01.29-14.48.40:165][127]LogEditorTransaction: Undo Tile Erasing
+[2021.01.29-14.48.48:277][229]Cmd: TRANSACTION UNDO
+[2021.01.29-14.48.48:277][229]LogEditorTransaction: Undo Tile Erasing
+[2021.01.29-14.49.23:232][774]Cmd: TRANSACTION UNDO
+[2021.01.29-14.49.23:232][774]LogEditorTransaction: Undo Tile Painting
+[2021.01.29-14.51.16:106][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Tiles/Caves" FILE="D:/GameProjects/GGJ21/LostBat/Content/MY_Assets/Tiles/Caves.uasset" SILENT=true
+[2021.01.29-14.51.17:727][473]LogSavePackage: Moving 'D:/GameProjects/GGJ21/LostBat/Saved/CavesDAC93FF5437D6437383D0BBBEE30C857.tmp' to 'D:/GameProjects/GGJ21/LostBat/Content/MY_Assets/Tiles/Caves.uasset'
+[2021.01.29-14.51.17:781][473]AssetCheck: New page: Asset Save: Caves
+[2021.01.29-14.51.17:781][473]LogContentValidation: Display: Validating PaperTileMap /Game/MY_Assets/Tiles/Caves.Caves
+[2021.01.29-14.52.18:261][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Tiles/Caves" FILE="D:/GameProjects/GGJ21/LostBat/Content/MY_Assets/Tiles/Caves.uasset" SILENT=true
+[2021.01.29-14.52.19:924][372]LogSavePackage: Moving 'D:/GameProjects/GGJ21/LostBat/Saved/Caves9489DC314B7960E8DA253A8609D398F4.tmp' to 'D:/GameProjects/GGJ21/LostBat/Content/MY_Assets/Tiles/Caves.uasset'
+[2021.01.29-14.52.19:959][372]AssetCheck: New page: Asset Save: Caves
+[2021.01.29-14.52.19:959][372]LogContentValidation: Display: Validating PaperTileMap /Game/MY_Assets/Tiles/Caves.Caves
+[2021.01.29-14.56.26:870][975]Cmd: TRANSACTION UNDO
+[2021.01.29-14.56.26:871][975]LogEditorTransaction: Undo Tile Painting
+[2021.01.29-14.56.52:427][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Tiles/Caves" FILE="D:/GameProjects/GGJ21/LostBat/Content/MY_Assets/Tiles/Caves.uasset" SILENT=true
+[2021.01.29-14.56.54:183][373]LogSavePackage: Moving 'D:/GameProjects/GGJ21/LostBat/Saved/Caves96E4771547537CE383D569836273D560.tmp' to 'D:/GameProjects/GGJ21/LostBat/Content/MY_Assets/Tiles/Caves.uasset'
+[2021.01.29-14.56.54:227][373]AssetCheck: New page: Asset Save: Caves
+[2021.01.29-14.56.54:227][373]LogContentValidation: Display: Validating PaperTileMap /Game/MY_Assets/Tiles/Caves.Caves
+[2021.01.29-15.01.29:150][433]Cmd: TRANSACTION UNDO
+[2021.01.29-15.01.29:151][433]LogEditorTransaction: Undo Tile Painting
+[2021.01.29-15.03.30:085][261]Cmd: TRANSACTION UNDO
+[2021.01.29-15.03.30:086][261]LogEditorTransaction: Undo Tile Painting
+[2021.01.29-15.03.32:541][318]Cmd: TRANSACTION UNDO
+[2021.01.29-15.03.32:541][318]LogEditorTransaction: Undo Tile Painting
+[2021.01.29-15.05.58:213][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Tiles/Caves" FILE="D:/GameProjects/GGJ21/LostBat/Content/MY_Assets/Tiles/Caves.uasset" SILENT=true
+[2021.01.29-15.05.59:983][532]LogSavePackage: Moving 'D:/GameProjects/GGJ21/LostBat/Saved/Caves62C28DFF421B719E80D83BB0B7F6E6B6.tmp' to 'D:/GameProjects/GGJ21/LostBat/Content/MY_Assets/Tiles/Caves.uasset'
+[2021.01.29-15.06.00:031][532]AssetCheck: New page: Asset Save: Caves
+[2021.01.29-15.06.00:031][532]LogContentValidation: Display: Validating PaperTileMap /Game/MY_Assets/Tiles/Caves.Caves
+[2021.01.29-15.06.55:809][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Tiles/Caves" FILE="D:/GameProjects/GGJ21/LostBat/Content/MY_Assets/Tiles/Caves.uasset" SILENT=true
+[2021.01.29-15.06.57:621][251]LogSavePackage: Moving 'D:/GameProjects/GGJ21/LostBat/Saved/CavesB1E52C2A4A18A440F45CD39FFA06B4B9.tmp' to 'D:/GameProjects/GGJ21/LostBat/Content/MY_Assets/Tiles/Caves.uasset'
+[2021.01.29-15.06.57:862][251]AssetCheck: New page: Asset Save: Caves
+[2021.01.29-15.06.57:863][251]LogContentValidation: Display: Validating PaperTileMap /Game/MY_Assets/Tiles/Caves.Caves
+[2021.01.29-15.07.01:986][318]Cmd: TRANSACTION UNDO
+[2021.01.29-15.07.01:986][318]LogEditorTransaction: Undo Tile Painting
+[2021.01.29-15.07.26:040][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Tiles/Caves" FILE="D:/GameProjects/GGJ21/LostBat/Content/MY_Assets/Tiles/Caves.uasset" SILENT=true
+[2021.01.29-15.07.27:904][690]LogSavePackage: Moving 'D:/GameProjects/GGJ21/LostBat/Saved/Caves79C063F042131F2930CE7FA588496242.tmp' to 'D:/GameProjects/GGJ21/LostBat/Content/MY_Assets/Tiles/Caves.uasset'
+[2021.01.29-15.07.27:947][690]AssetCheck: New page: Asset Save: Caves
+[2021.01.29-15.07.27:947][690]LogContentValidation: Display: Validating PaperTileMap /Game/MY_Assets/Tiles/Caves.Caves
+[2021.01.29-15.07.41:762][879]Cmd: TRANSACTION UNDO
+[2021.01.29-15.07.41:762][879]LogEditorTransaction: Undo Tile Painting
+[2021.01.29-15.08.00:969][148]Cmd: TRANSACTION UNDO
+[2021.01.29-15.08.00:970][148]LogEditorTransaction: Undo Tile Painting
+[2021.01.29-15.08.01:443][153]Cmd: TRANSACTION UNDO
+[2021.01.29-15.08.01:443][153]LogEditorTransaction: Undo Tile Painting
+[2021.01.29-15.08.01:978][171]Cmd: TRANSACTION UNDO
+[2021.01.29-15.08.01:978][171]LogEditorTransaction: Undo Tile Painting
+[2021.01.29-15.08.02:470][176]Cmd: TRANSACTION UNDO
+[2021.01.29-15.08.02:470][176]LogEditorTransaction: Undo Tile Painting
+[2021.01.29-15.08.10:062][287]Cmd: TRANSACTION UNDO
+[2021.01.29-15.08.10:062][287]LogEditorTransaction: Undo Tile Painting
+[2021.01.29-15.08.11:746][331]Cmd: TRANSACTION UNDO
+[2021.01.29-15.08.11:747][331]LogEditorTransaction: Undo Tile Painting
+[2021.01.29-15.08.27:092][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Tiles/Caves" FILE="D:/GameProjects/GGJ21/LostBat/Content/MY_Assets/Tiles/Caves.uasset" SILENT=true
+[2021.01.29-15.08.28:862][564]LogSavePackage: Moving 'D:/GameProjects/GGJ21/LostBat/Saved/Caves7C8196064473F5869B8EFC9C61F68A85.tmp' to 'D:/GameProjects/GGJ21/LostBat/Content/MY_Assets/Tiles/Caves.uasset'
+[2021.01.29-15.08.28:908][564]AssetCheck: New page: Asset Save: Caves
+[2021.01.29-15.08.28:908][564]LogContentValidation: Display: Validating PaperTileMap /Game/MY_Assets/Tiles/Caves.Caves
+[2021.01.29-15.10.24:993][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Tiles/Caves" FILE="D:/GameProjects/GGJ21/LostBat/Content/MY_Assets/Tiles/Caves.uasset" SILENT=true
+[2021.01.29-15.10.26:784][335]LogSavePackage: Moving 'D:/GameProjects/GGJ21/LostBat/Saved/Caves0A9A7FFA47B980BD8F5782BDFE465817.tmp' to 'D:/GameProjects/GGJ21/LostBat/Content/MY_Assets/Tiles/Caves.uasset'
+[2021.01.29-15.10.26:830][335]AssetCheck: New page: Asset Save: Caves
+[2021.01.29-15.10.26:830][335]LogContentValidation: Display: Validating PaperTileMap /Game/MY_Assets/Tiles/Caves.Caves
+[2021.01.29-15.11.30:093][240]Cmd: TRANSACTION UNDO
+[2021.01.29-15.11.30:093][240]LogEditorTransaction: Undo Tile Painting
+[2021.01.29-15.11.30:773][255]Cmd: TRANSACTION UNDO
+[2021.01.29-15.11.30:773][255]LogEditorTransaction: Undo Tile Painting
+[2021.01.29-15.11.31:516][268]Cmd: TRANSACTION UNDO
+[2021.01.29-15.11.31:517][268]LogEditorTransaction: Undo Tile Painting
+[2021.01.29-15.13.36:840][157]Cmd: TRANSACTION UNDO
+[2021.01.29-15.13.36:840][157]LogEditorTransaction: Undo Tile Painting
+[2021.01.29-15.14.22:666][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Tiles/Caves" FILE="D:/GameProjects/GGJ21/LostBat/Content/MY_Assets/Tiles/Caves.uasset" SILENT=true
+[2021.01.29-15.14.24:588][888]LogSavePackage: Moving 'D:/GameProjects/GGJ21/LostBat/Saved/Caves6221766E424516EDE1F8ABBCB276233A.tmp' to 'D:/GameProjects/GGJ21/LostBat/Content/MY_Assets/Tiles/Caves.uasset'
+[2021.01.29-15.14.24:630][888]AssetCheck: New page: Asset Save: Caves
+[2021.01.29-15.14.24:630][888]LogContentValidation: Display: Validating PaperTileMap /Game/MY_Assets/Tiles/Caves.Caves
+[2021.01.29-15.15.04:400][469]LogMemory: Warning: Freeing 33554432 bytes from backup pool to handle out of memory.
+[2021.01.29-15.15.04:400][469]LogMemory: Warning: MemoryStats:
+	AvailablePhysical 585261056
+	 AvailableVirtual 140713949442048
+	     UsedPhysical 4779548672
+	 PeakUsedPhysical 5680132096
+	      UsedVirtual 17302007808
+	  PeakUsedVirtual 18297204736
+[2021.01.29-15.15.04:401][469]Allocator Stats for TBB: (not implemented)
+[2021.01.29-15.15.04:404][469]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.01.29-15.15.04:405][469]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2021.01.29-15.15.08:976][469]LogWindows: Error: === Critical error: ===
+[2021.01.29-15.15.08:976][469]LogWindows: Error: 
+[2021.01.29-15.15.08:976][469]LogWindows: Error: Fatal error: [File:D:/Build/++UE4+Licensee/Sync/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformMemory.cpp] [Line: 186] 
+[2021.01.29-15.15.08:976][469]LogWindows: Error: Ran out of memory allocating 805306368 bytes with alignment 16
+[2021.01.29-15.15.08:976][469]LogWindows: Error: 
+[2021.01.29-15.15.08:976][469]LogWindows: Error: 
+[2021.01.29-15.15.08:976][469]LogWindows: Error: [Callstack] 0x00007ffe38f5d759 KERNELBASE.dll!UnknownFunction []
+[2021.01.29-15.15.08:976][469]LogWindows: Error: [Callstack] 0x00007ffdfb93e9e6 UE4Editor-Core.dll!UnknownFunction []
+[2021.01.29-15.15.08:976][469]LogWindows: Error: [Callstack] 0x00007ffdfb941dc8 UE4Editor-Core.dll!UnknownFunction []
+[2021.01.29-15.15.08:976][469]LogWindows: Error: [Callstack] 0x00007ffdfb6ce53d UE4Editor-Core.dll!UnknownFunction []
+[2021.01.29-15.15.08:976][469]LogWindows: Error: [Callstack] 0x00007ffdfb4cf32a UE4Editor-Core.dll!UnknownFunction []
+[2021.01.29-15.15.08:976][469]LogWindows: Error: [Callstack] 0x00007ffdfb584f1d UE4Editor-Core.dll!UnknownFunction []
+[2021.01.29-15.15.08:976][469]LogWindows: Error: [Callstack] 0x00007ffdfb584ffa UE4Editor-Core.dll!UnknownFunction []
+[2021.01.29-15.15.08:976][469]LogWindows: Error: [Callstack] 0x00007ffdff87e56b UE4Editor-PhysicsCore.dll!UnknownFunction []
+[2021.01.29-15.15.08:976][469]LogWindows: Error: [Callstack] 0x00007ffe02a641dc PxFoundationPROFILE_x64.dll!physx::shdfnd::BroadcastingAllocator::allocate() [d:\build\++fortnite\sync\engine\source\thirdparty\physx3\pxshared\src\foundation\include\psbroadcast.h:195]
+[2021.01.29-15.15.08:976][469]LogWindows: Error: [Callstack] 0x00007ffdbce4423f PhysX3PROFILE_x64.dll!physx::PxsDefaultMemoryAllocator::allocate() [d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\lowlevel\software\include\pxsdefaultmemorymanager.h:69]
+[2021.01.29-15.15.08:976][469]LogWindows: Error: [Callstack] 0x00007ffdbcdebd5b PhysX3PROFILE_x64.dll!physx::shdfnd::Array<physx::PxBounds3,physx::shdfnd::VirtualAllocator>::recreate() [d:\build\++fortnite\sync\engine\source\thirdparty\physx3\pxshared\src\foundation\include\psarray.h:781]
+[2021.01.29-15.15.08:976][469]LogWindows: Error: [Callstack] 0x00007ffdbce2e1cb PhysX3PROFILE_x64.dll!physx::Sc::ElementSim::ElementSim() [d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\simulationcontroller\src\scelementsim.cpp:91]
+[2021.01.29-15.15.08:976][469]LogWindows: Error: [Callstack] 0x00007ffdbce0ab18 PhysX3PROFILE_x64.dll!physx::Sc::ShapeSim::ShapeSim() [d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\simulationcontroller\src\scshapesim.cpp:140]
+[2021.01.29-15.15.08:976][469]LogWindows: Error: [Callstack] 0x00007ffdbcdd80ae PhysX3PROFILE_x64.dll!physx::Sc::Scene::addShapes() [d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\simulationcontroller\src\scscene.cpp:5134]
+[2021.01.29-15.15.08:976][469]LogWindows: Error: [Callstack] 0x00007ffdbcdc6767 PhysX3PROFILE_x64.dll!physx::Sc::Scene::addBody() [d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\simulationcontroller\src\scscene.cpp:5188]
+[2021.01.29-15.15.08:976][469]LogWindows: Error: [Callstack] 0x00007ffdbccb031e PhysX3PROFILE_x64.dll!physx::NpScene::addActorsInternal() [d:\build\++fortnite\sync\engine\source\thirdparty\physx3\physx_3.4\source\physx\src\npscene.cpp:595]
+[2021.01.29-15.15.08:976][469]LogWindows: Error: [Callstack] 0x00007ffdd9a610cb UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.29-15.15.08:976][469]LogWindows: Error: [Callstack] 0x00007ffdd998f449 UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.29-15.15.08:976][469]LogWindows: Error: [Callstack] 0x00007ffdd9a77319 UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.29-15.15.08:976][469]LogWindows: Error: [Callstack] 0x00007ffdd99a7482 UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.29-15.15.08:976][469]LogWindows: Error: [Callstack] 0x00007ffdd99a7d17 UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.29-15.15.08:976][469]LogWindows: Error: [Callstack] 0x00007ffdd919fc3f UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.29-15.15.08:976][469]LogWindows: Error: [Callstack] 0x00007ffdd9118b49 UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.29-15.15.08:977][469]LogWindows: Error: [Callstack] 0x00007ffdb55fec94 UE4Editor-Paper2D.dll!UnknownFunction []
+[2021.01.29-15.15.08:977][469]LogWindows: Error: [Callstack] 0x00007ffdb55cf963 UE4Editor-Paper2D.dll!UnknownFunction []
+[2021.01.29-15.15.08:977][469]LogWindows: Error: [Callstack] 0x00007ffdb55fd11c UE4Editor-Paper2D.dll!UnknownFunction []
+[2021.01.29-15.15.08:977][469]LogWindows: Error: [Callstack] 0x00007ffdfdb37b61 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.01.29-15.15.08:977][469]LogWindows: Error: [Callstack] 0x00007ffdb307ce11 UE4Editor-Paper2DEditor.dll!UnknownFunction []
+[2021.01.29-15.15.08:977][469]LogWindows: Error: [Callstack] 0x00007ffdb31168bf UE4Editor-Paper2DEditor.dll!UnknownFunction []
+[2021.01.29-15.15.08:977][469]LogWindows: Error: [Callstack] 0x00007ffdb313e8ff UE4Editor-Paper2DEditor.dll!UnknownFunction []
+[2021.01.29-15.15.08:977][469]LogWindows: Error: [Callstack] 0x00007ffdb30844b6 UE4Editor-Paper2DEditor.dll!UnknownFunction []
+[2021.01.29-15.15.08:977][469]LogWindows: Error: [Callstack] 0x00007ffdf5475963 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.29-15.15.08:977][469]LogWindows: Error: [Callstack] 0x00007ffdf54e8ad3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.29-15.15.08:977][469]LogWindows: Error: [Callstack] 0x00007ffdd9ca27dd UE4Editor-Engine.dll!UnknownFunction []
+[2021.01.29-15.15.08:977][469]LogWindows: Error: [Callstack] 0x00007ffdfb188db7 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.29-15.15.08:977][469]LogWindows: Error: [Callstack] 0x00007ffdfaed29c2 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.29-15.15.08:977][469]LogWindows: Error: [Callstack] 0x00007ffdfaf56404 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.29-15.15.08:977][469]LogWindows: Error: [Callstack] 0x00007ffdfaf3fdeb UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.29-15.15.08:977][469]LogWindows: Error: [Callstack] 0x00007ffdfaf3299f UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.29-15.15.08:977][469]LogWindows: Error: [Callstack] 0x00007ffe14c77b57 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.29-15.15.08:977][469]LogWindows: Error: [Callstack] 0x00007ffe14c65c87 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.29-15.15.08:977][469]LogWindows: Error: [Callstack] 0x00007ffe14c79e61 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.29-15.15.08:977][469]LogWindows: Error: [Callstack] 0x00007ffe14c617d0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.29-15.15.08:977][469]LogWindows: Error: [Callstack] 0x00007ffe3a73e858 USER32.dll!UnknownFunction []
+[2021.01.29-15.15.08:977][469]LogWindows: Error: [Callstack] 0x00007ffe3a73e299 USER32.dll!UnknownFunction []
+[2021.01.29-15.15.08:977][469]LogWindows: Error: [Callstack] 0x00007ffe14c7bb24 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.29-15.15.08:977][469]LogWindows: Error: [Callstack] 0x00007ff6139e68c4 UE4Editor.exe!UnknownFunction []
+[2021.01.29-15.15.08:977][469]LogWindows: Error: [Callstack] 0x00007ff6139fba7c UE4Editor.exe!UnknownFunction []
+[2021.01.29-15.15.08:977][469]LogWindows: Error: [Callstack] 0x00007ff6139fbb5a UE4Editor.exe!UnknownFunction []
+[2021.01.29-15.15.08:977][469]LogWindows: Error: [Callstack] 0x00007ff613a0e31d UE4Editor.exe!UnknownFunction []
+[2021.01.29-15.15.08:977][469]LogWindows: Error: [Callstack] 0x00007ff613a1145a UE4Editor.exe!UnknownFunction []
+[2021.01.29-15.15.08:978][469]LogWindows: Error: [Callstack] 0x00007ffe3aea7034 KERNEL32.DLL!UnknownFunction []
+[2021.01.29-15.15.08:978][469]LogWindows: Error: [Callstack] 0x00007ffe3b4fd0d1 ntdll.dll!UnknownFunction []
+[2021.01.29-15.15.08:978][469]LogWindows: Error: 
+[2021.01.29-15.15.09:017][469]LogExit: Executing StaticShutdownAfterError
+[2021.01.29-15.15.47:594][469]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.01.29-15.15.47:600][469]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.01.29-15.15.47:612][469]Log file closed, 01/29/21 15:15:47
