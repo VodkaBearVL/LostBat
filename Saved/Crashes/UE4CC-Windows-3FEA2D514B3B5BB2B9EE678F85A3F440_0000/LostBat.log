@@ -1,0 +1,1048 @@
+﻿Log file open, 01/30/21 13:22:06
+LogInit: Display: Running engine for game: LostBat
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.198683
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i5-6600 CPU @ 3.30GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GameProjects/LostBat/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.01.30-13.22.07:248][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.30-13.22.07:248][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.30-13.22.07:248][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GameProjects/LostBat/Saved/Config/Windows/Engine.ini]
+[2021.01.30-13.22.07:248][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.30-13.22.07:248][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2021.01.30-13.22.07:248][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GameProjects/LostBat/Saved/Config/Windows/Engine.ini]
+[2021.01.30-13.22.07:248][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GameProjects/LostBat/Saved/Config/Windows/Engine.ini]
+[2021.01.30-13.22.07:248][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.30-13.22.07:248][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.30-13.22.07:248][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.30-13.22.07:248][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.30-13.22.07:248][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.30-13.22.07:248][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.30-13.22.07:248][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.30-13.22.07:248][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.30-13.22.07:248][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.30-13.22.07:248][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.30-13.22.07:248][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.30-13.22.07:248][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.30-13.22.07:248][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.30-13.22.07:248][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.01.30-13.22.07:248][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GameProjects/LostBat/Saved/Config/Windows/Engine.ini]
+[2021.01.30-13.22.07:248][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.30-13.22.07:248][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.30-13.22.07:248][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.30-13.22.07:248][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.30-13.22.07:248][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.30-13.22.07:248][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.30-13.22.07:248][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.01.30-13.22.07:248][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.30-13.22.07:248][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.30-13.22.07:248][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.30-13.22.07:248][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.30-13.22.07:248][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.30-13.22.07:248][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.30-13.22.07:248][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GameProjects/LostBat/Saved/Config/Windows/Engine.ini]
+[2021.01.30-13.22.07:248][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GameProjects/LostBat/Saved/Config/Windows/Engine.ini]
+[2021.01.30-13.22.07:251][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GameProjects/LostBat/Saved/Config/Windows/Scalability.ini]
+[2021.01.30-13.22.07:251][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.30-13.22.07:251][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.30-13.22.07:251][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GameProjects/LostBat/Saved/Config/Windows/Scalability.ini]
+[2021.01.30-13.22.07:251][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.30-13.22.07:251][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GameProjects/LostBat/Saved/Config/Windows/Scalability.ini]
+[2021.01.30-13.22.07:251][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.30-13.22.07:251][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.30-13.22.07:251][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.30-13.22.07:251][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.30-13.22.07:251][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.30-13.22.07:251][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.30-13.22.07:251][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.30-13.22.07:251][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.30-13.22.07:251][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.30-13.22.07:251][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GameProjects/LostBat/Saved/Config/Windows/Scalability.ini]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GameProjects/LostBat/Saved/Config/Windows/Scalability.ini]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GameProjects/LostBat/Saved/Config/Windows/Scalability.ini]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.30-13.22.07:252][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GameProjects/LostBat/Saved/Config/Windows/Scalability.ini]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GameProjects/LostBat/Saved/Config/Windows/Scalability.ini]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.01.30-13.22.07:253][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.30-13.22.07:253][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.30-13.22.07:253][  0]LogHAL: Display: Platform has ~ 8 GB [8463282176 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.30-13.22.07:253][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.30-13.22.07:253][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [D:/GameProjects/LostBat/Saved/Config/Windows/Scalability.ini]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [D:/GameProjects/LostBat/Saved/Config/Windows/Scalability.ini]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [D:/GameProjects/LostBat/Saved/Config/Windows/Scalability.ini]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [D:/GameProjects/LostBat/Saved/Config/Windows/Scalability.ini]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2021.01.30-13.22.07:253][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [D:/GameProjects/LostBat/Saved/Config/Windows/Scalability.ini]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [D:/GameProjects/LostBat/Saved/Config/Windows/Scalability.ini]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.SSGI.Quality:1]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [D:/GameProjects/LostBat/Saved/Config/Windows/Scalability.ini]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GameProjects/LostBat/Saved/Config/Windows/Scalability.ini]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.01.30-13.22.07:254][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.30-13.22.07:255][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.30-13.22.07:255][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.01.30-13.22.07:255][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.01.30-13.22.07:255][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GameProjects/LostBat/Saved/Config/Windows/Engine.ini]
+[2021.01.30-13.22.07:255][  0]LogInit: Computer: VALERY
+[2021.01.30-13.22.07:255][  0]LogInit: User: Valery
+[2021.01.30-13.22.07:255][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.01.30-13.22.07:255][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.30-13.22.07:255][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.01.30-13.22.07:255][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.30-13.22.07:255][  0]LogMemory: Process Physical Memory: 113.97 MB used, 113.97 MB peak
+[2021.01.30-13.22.07:255][  0]LogMemory: Process Virtual Memory: 95.28 MB used, 95.28 MB peak
+[2021.01.30-13.22.07:255][  0]LogMemory: Physical Memory: 4956.33 MB used,  3114.89 MB free, 8071.21 MB total
+[2021.01.30-13.22.07:255][  0]LogMemory: Virtual Memory: 5128.52 MB used,  134212600.00 MB free, 134217728.00 MB total
+[2021.01.30-13.22.07:260][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.01.30-13.22.07:297][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.01.30-13.22.07:298][  0]LogInit: Using OS detected language (en-US).
+[2021.01.30-13.22.07:299][  0]LogInit: Using OS detected locale (en-US).
+[2021.01.30-13.22.07:304][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.01.30-13.22.07:542][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.30-13.22.07:574][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.30-13.22.07:574][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.30-13.22.07:812][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.30-13.22.07:812][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.01.30-13.22.07:812][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.01.30-13.22.07:812][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.30-13.22.07:914][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2021.01.30-13.22.07:914][  0]LogD3D11RHI:       128/0/4035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2021.01.30-13.22.07:917][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.30-13.22.07:917][  0]LogD3D11RHI:       0/0/4035 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.30-13.22.07:917][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.30-13.22.07:923][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.30-13.22.07:923][  0]LogD3D11RHI:     GPU DeviceId: 0x1912 (for the marketing name, search the web for "GPU Device Id")
+[2021.01.30-13.22.07:923][  0]LogWindows: EnumDisplayDevices:
+[2021.01.30-13.22.07:923][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2021.01.30-13.22.07:924][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2021.01.30-13.22.07:924][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2021.01.30-13.22.07:924][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2021.01.30-13.22.07:924][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 530
+[2021.01.30-13.22.07:924][  0]LogD3D11RHI:   Driver Version: 26.20.100.7757 (internal:26.20.100.7757, unified:26.20.100.7757)
+[2021.01.30-13.22.07:924][  0]LogD3D11RHI:      Driver Date: 1-9-2020
+[2021.01.30-13.22.07:924][  0]LogRHI: Texture pool is 1502 MB (70% of 2145 MB)
+[2021.01.30-13.22.08:063][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2021.01.30-13.22.08:064][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2021.01.30-13.22.08:064][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.30-13.22.08:064][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.01.30-13.22.08:073][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2021.01.30-13.22.08:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.01.30-13.22.08:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.01.30-13.22.08:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.01.30-13.22.08:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.01.30-13.22.08:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.01.30-13.22.08:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.01.30-13.22.08:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.01.30-13.22.08:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.01.30-13.22.08:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.01.30-13.22.08:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.01.30-13.22.08:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.01.30-13.22.08:406][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.01.30-13.22.08:407][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.01.30-13.22.08:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.01.30-13.22.08:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.01.30-13.22.08:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.01.30-13.22.08:444][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.01.30-13.22.08:453][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.01.30-13.22.08:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.01.30-13.22.08:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.01.30-13.22.08:495][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.01.30-13.22.08:495][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.01.30-13.22.08:509][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.01.30-13.22.08:509][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.01.30-13.22.08:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.01.30-13.22.08:534][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.01.30-13.22.08:542][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.01.30-13.22.08:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.01.30-13.22.08:551][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.30-13.22.08:560][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.01.30-13.22.08:624][  0]LogShaderCompilers: Guid format shader working directory is 23 characters bigger than the processId version (D:/GameProjects/LostBat/Intermediate/Shaders/WorkingDirectory/13476/).
+[2021.01.30-13.22.08:624][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Valery/AppData/Local/Temp/UnrealShaderWorkingDir/878EA26F40363E4BE1F041BCA02AF016/'.
+[2021.01.30-13.22.08:625][  0]LogXGEController: Cleaning working directory: C:/Users/Valery/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.01.30-13.22.08:625][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.01.30-13.22.08:625][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.30-13.22.08:625][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.30-13.22.09:417][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.30-13.22.09:504][  0]LogDerivedDataCache: Loaded boot cache 0.09s 75MB C:/Users/Valery/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.01.30-13.22.09:504][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Valery/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.01.30-13.22.09:504][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/GameProjects/LostBat/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.30-13.22.09:504][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.30-13.22.09:504][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/GameProjects/LostBat/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.30-13.22.09:504][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.30-13.22.09:514][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.30-13.22.09:514][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.30-13.22.09:514][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.30-13.22.09:516][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Valery/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.30-13.22.09:516][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.30-13.22.09:516][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.30-13.22.09:567][  0]LogSlate: Using FreeType 2.10.0
+[2021.01.30-13.22.09:568][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.30-13.22.09:616][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2021.01.30-13.22.09:853][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.30-13.22.09:971][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.30-13.22.09:971][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.01.30-13.22.09:971][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.30-13.22.09:971][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.01.30-13.22.09:971][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.01.30-13.22.09:987][  0]LogNetVersion: LostBat 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3475071208)
+[2021.01.30-13.22.10:532][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001F3413F5A80), frame # 0
+[2021.01.30-13.22.10:532][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F3413651C0), frame # 0
+[2021.01.30-13.22.10:533][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F3413ADE00), frame # 0
+[2021.01.30-13.22.10:584][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.044883 seconds
+[2021.01.30-13.22.10:589][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.01.30-13.22.10:589][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.01.30-13.22.10:589][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.30-13.22.10:949][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.30-13.22.10:953][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.30-13.22.11:045][  0]SourceControl: Source control is disabled
+[2021.01.30-13.22.11:045][  0]SourceControl: Source control is disabled
+[2021.01.30-13.22.11:049][  0]SourceControl: Source control is disabled
+[2021.01.30-13.22.11:051][  0]SourceControl: Source control is disabled
+[2021.01.30-13.22.11:058][  0]SourceControl: Source control is disabled
+[2021.01.30-13.22.11:312][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.30-13.22.11:333][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.30-13.22.11:333][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.30-13.22.11:386][  0]LogOcInput: OculusInput pre-init called
+[2021.01.30-13.22.11:397][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.01.30-13.22.11:397][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.01.30-13.22.11:458][  0]LogEngine: Initializing Engine...
+[2021.01.30-13.22.11:459][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.30-13.22.11:459][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.01.30-13.22.11:460][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.01.30-13.22.11:589][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.30-13.22.11:599][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.30-13.22.11:599][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F346630600), frame # 0
+[2021.01.30-13.22.11:599][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F34662A200), frame # 0
+[2021.01.30-13.22.11:621][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-13.22.11:621][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-13.22.11:621][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-13.22.11:621][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-13.22.11:621][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-13.22.11:621][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-13.22.11:621][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-13.22.11:621][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-13.22.11:621][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-13.22.11:621][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-13.22.11:640][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-13.22.11:640][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-13.22.11:678][  0]LogAudioMixer: Display: Using Audio Device Headphones (Synaptics HD Audio)
+[2021.01.30-13.22.11:681][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-13.22.11:683][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-13.22.11:683][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-13.22.11:684][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-13.22.11:685][  0]LogInit: FAudioDevice initialized.
+[2021.01.30-13.22.11:685][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.30-13.22.11:732][  0]LogDerivedDataCache: Saved boot cache 0.05s 75MB C:/Users/Valery/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.01.30-13.22.11:737][  0]LogInit: Texture streaming: Enabled
+[2021.01.30-13.22.11:755][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.30-13.22.11:755][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.01.30-13.22.11:756][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.01.30-13.22.11:825][  0]LogInit: Transaction tracking system initialized
+[2021.01.30-13.22.11:856][  0]BlueprintLog: New page: Editor Load
+[2021.01.30-13.22.11:932][  0]LocalizationService: Localization service is disabled
+[2021.01.30-13.22.12:567][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.01.30-13.22.12:567][  0]LogCook: Display: Mobile HDR setting 0
+[2021.01.30-13.22.12:712][  0]LogFileCache: Scanning file cache for directory 'D:/GameProjects/LostBat/Content/' took 0.00s
+[2021.01.30-13.22.12:959][  0]SourceControl: Source control is disabled
+[2021.01.30-13.22.12:959][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.847
+[2021.01.30-13.22.12:959][  0]Cmd: MAP LOAD FILE="D:/GameProjects/LostBat/Content/MY_BP/MY_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.30-13.22.12:959][  0]LightingResults: New page: Lighting Build
+[2021.01.30-13.22.12:960][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-13.22.12:960][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.22.12:960][  0]MapCheck: New page: Map Check
+[2021.01.30-13.22.12:960][  0]LightingResults: New page: Lighting Build
+[2021.01.30-13.22.12:968][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F346630600), frame # 0
+[2021.01.30-13.22.12:968][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F34662A200), frame # 0
+[2021.01.30-13.22.12:969][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.01.30-13.22.13:643][  0]LogAIModule: Creating AISystem for world MY_Map
+[2021.01.30-13.22.13:644][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F34EC9FE00), frame # 0
+[2021.01.30-13.22.13:644][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F335E19300), frame # 0
+[2021.01.30-13.22.13:704][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.30-13.22.13:724][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.01.30-13.22.13:725][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.30-13.22.13:726][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.189ms to complete.
+[2021.01.30-13.22.13:726][  0]LogFileHelpers: Loading map 'MY_Map' took 0.766
+[2021.01.30-13.22.13:727][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.615
+[2021.01.30-13.22.13:871][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.22.13:880][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.22.13:887][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.22.13:894][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-13.22.13:901][  0]LogCollectionManager: Loaded 0 collections in 0.001654 seconds
+[2021.01.30-13.22.13:916][  0]LogFileCache: Scanning file cache for directory 'D:/GameProjects/LostBat/Saved/Collections/' took 0.00s
+[2021.01.30-13.22.13:916][  0]LogFileCache: Scanning file cache for directory 'D:/GameProjects/LostBat/Content/Developers/Valery/Collections/' took 0.00s
+[2021.01.30-13.22.13:916][  0]LogFileCache: Scanning file cache for directory 'D:/GameProjects/LostBat/Content/Collections/' took 0.00s
+[2021.01.30-13.22.13:916][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 3427 classes and 821 folders.
+[2021.01.30-13.22.13:920][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.01.30-13.22.14:058][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.30-13.22.14:062][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.01.30-13.22.14:146][  0]LogSlate: Took 0.000622 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.30-13.22.14:149][  0]LogSlate: Took 0.001050 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.30-13.22.14:155][  0]LogSlate: Took 0.000481 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.30-13.22.14:217][  0]LogRenderer: Reallocating scene render targets to support 1144x616 Format 9 NumSamples 1 (Frame:1).
+[2021.01.30-13.22.14:298][  0]LogSlate: Took 0.001413 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.30-13.22.14:416][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2021.01.30-13.22.14:417][  0]LogLoad: (Engine Initialization) Total time: 10.30 seconds
+[2021.01.30-13.22.14:417][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.30-13.22.14:460][  0]LogAssetRegistry: Asset discovery search completed in 4.8451 seconds
+[2021.01.30-13.22.14:466][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.01.30-13.22.14:488][  0]LogContentStreaming: Texture pool size now 600 MB
+[2021.01.30-13.22.14:517][  0]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.30-13.22.30:504][630]LogSlate: Window 'Reimport missing files' being destroyed
+[2021.01.30-13.22.30:509][630]Message dialog closed, result: Cancel, title: Reimport missing files, text: There is 8 assets with missing source file path. Do you want to specify a new source file path for each asset?
+ "No" will skip the reimport of all asset with a missing source file path.
+ "Cancel" will cancel the whole reimport.
+
+Asset frame_0 -> Missing file D:/GameProjects/GGJ21/gramps_flying_animation_sprites/gramps_flying_animation_sprites/frame_0.png
+Asset frame_1 -> Missing file D:/GameProjects/GGJ21/gramps_flying_animation_sprites/gramps_flying_animation_sprites/frame_1.png
+Asset frame_2 -> Missing file D:/GameProjects/GGJ21/gramps_flying_animation_sprites/gramps_flying_animation_sprites/frame_2.png
+Asset frame_3 -> Missing file D:/GameProjects/GGJ21/gramps_flying_animation_sprites/gramps_flying_animation_sprites/frame_3.png
+Asset frame_4 -> Missing file D:/GameProjects/GGJ21/gramps_flying_animation_sprites/gramps_flying_animation_sprites/frame_4.png
+Asset frame_5 -> Missing file D:/GameProjects/GGJ21/gramps_flying_animation_sprites/gramps_flying_animation_sprites/frame_5.png
+Asset frame_6 -> Missing file D:/GameProjects/GGJ21/gramps_flying_animation_sprites/gramps_flying_animation_sprites/frame_6.png
+Asset frame_7 -> Missing file D:/GameProjects/GGJ21/gramps_flying_animation_sprites/gramps_flying_animation_sprites/frame_7.png
+[2021.01.30-13.22.44:120][735]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GameProjects\GGJ21\smaller_gramps_flying\smaller_gramps_flying\frame5.png)
+[2021.01.30-13.22.44:131][735]LogTexture: Display: Building textures: frame5 (AutoDXT, 500X500)
+[2021.01.30-13.22.44:203][735]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GameProjects\GGJ21\smaller_gramps_flying\smaller_gramps_flying\frame6.png)
+[2021.01.30-13.22.44:208][735]LogTexture: Display: Building textures: frame6 (AutoDXT, 500X500)
+[2021.01.30-13.22.44:255][735]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GameProjects\GGJ21\smaller_gramps_flying\smaller_gramps_flying\frame7.png)
+[2021.01.30-13.22.44:259][735]LogTexture: Display: Building textures: frame7 (AutoDXT, 500X500)
+[2021.01.30-13.22.44:301][735]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GameProjects\GGJ21\smaller_gramps_flying\smaller_gramps_flying\frame0.png)
+[2021.01.30-13.22.44:305][735]LogTexture: Display: Building textures: frame0 (AutoDXT, 500X500)
+[2021.01.30-13.22.44:351][735]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GameProjects\GGJ21\smaller_gramps_flying\smaller_gramps_flying\frame1.png)
+[2021.01.30-13.22.44:356][735]LogTexture: Display: Building textures: frame1 (AutoDXT, 500X500)
+[2021.01.30-13.22.44:398][735]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GameProjects\GGJ21\smaller_gramps_flying\smaller_gramps_flying\frame2.png)
+[2021.01.30-13.22.44:403][735]LogTexture: Display: Building textures: frame2 (AutoDXT, 500X500)
+[2021.01.30-13.22.44:452][735]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GameProjects\GGJ21\smaller_gramps_flying\smaller_gramps_flying\frame3.png)
+[2021.01.30-13.22.44:456][735]LogTexture: Display: Building textures: frame3 (AutoDXT, 500X500)
+[2021.01.30-13.22.44:508][735]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GameProjects\GGJ21\smaller_gramps_flying\smaller_gramps_flying\frame4.png)
+[2021.01.30-13.22.44:513][735]LogTexture: Display: Building textures: frame4 (AutoDXT, 500X500)
+[2021.01.30-13.23.00:333][499]LogTexture: Display: Building textures: frame0 (BGRA8, 500X500)
+[2021.01.30-13.23.00:342][499]LogTexture: Display: Building textures: frame1 (BGRA8, 500X500)
+[2021.01.30-13.23.00:353][499]LogTexture: Display: Building textures: frame2 (BGRA8, 500X500)
+[2021.01.30-13.23.00:362][499]LogTexture: Display: Building textures: frame3 (BGRA8, 500X500)
+[2021.01.30-13.23.00:374][499]LogTexture: Display: Building textures: frame4 (BGRA8, 500X500)
+[2021.01.30-13.23.00:383][499]LogTexture: Display: Building textures: frame5 (BGRA8, 500X500)
+[2021.01.30-13.23.00:391][499]LogTexture: Display: Building textures: frame6 (BGRA8, 500X500)
+[2021.01.30-13.23.00:399][499]LogTexture: Display: Building textures: frame7 (BGRA8, 500X500)
+[2021.01.30-13.23.23:142][245]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.01.30-13.23.27:779][245]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.30-13.23.30:199][304]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/MY_Assets/Gramps/Gramps_Flip.Gramps_Flip
+[2021.01.30-13.23.30:408][304]LogRenderer: Reallocating scene render targets to support 1388x788 Format 9 NumSamples 1 (Frame:1).
+[2021.01.30-13.23.33:452][346]LogSlate: Window 'Gramps_Flip' being destroyed
+[2021.01.30-13.23.33:522][346]LogSlate: Window 'Gramps_Flip' being destroyed
+[2021.01.30-13.23.33:544][346]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-13.23.33:544][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.23.41:054][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.30-13.23.54:481][592]LogSlate: Window 'Replace References?' being destroyed
+[2021.01.30-13.23.54:486][592]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with frame7_Sprite; and then delete them.
+
+Are you sure?
+[2021.01.30-13.23.54:486][592]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.30-13.23.55:116][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.01.30-13.23.56:489][592]LogSlate: Window 'Save Content' being destroyed
+[2021.01.30-13.23.56:523][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Gramps/frame_7_Sprite" FILE="D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame_7_Sprite.uasset" SILENT=true
+[2021.01.30-13.23.56:540][592]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/frame_7_Sprite4BFA93A2469A72EE69FB269FDD16C4E3.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame_7_Sprite.uasset'
+[2021.01.30-13.23.56:549][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Gramps/Gramps_Flip" FILE="D:/GameProjects/LostBat/Content/MY_Assets/Gramps/Gramps_Flip.uasset" SILENT=true
+[2021.01.30-13.23.56:568][592]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/Gramps_Flip37C9692243F710423C2686B51F2EEBAC.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/Gramps/Gramps_Flip.uasset'
+[2021.01.30-13.23.56:583][592]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.30-13.23.56:583][592]LogContentValidation: Display: Validating ObjectRedirector /Game/MY_Assets/Gramps/frame_7_Sprite.frame_7_Sprite
+[2021.01.30-13.23.56:583][592]LogContentValidation: Display: Validating PaperFlipbook /Game/MY_Assets/Gramps/Gramps_Flip.Gramps_Flip
+[2021.01.30-13.23.59:654][670]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2021.01.30-13.24.08:281][670]LogSlate: Window 'Replace References?' being destroyed
+[2021.01.30-13.24.08:286][670]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with frame6_Sprite; and then delete them.
+
+Are you sure?
+[2021.01.30-13.24.08:286][670]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.30-13.24.08:508][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.01.30-13.24.09:815][670]LogSlate: Window 'Save Content' being destroyed
+[2021.01.30-13.24.09:839][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Gramps/frame_6_Sprite" FILE="D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame_6_Sprite.uasset" SILENT=true
+[2021.01.30-13.24.09:856][670]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/frame_6_Sprite5B16483F43DAA92830A2FA9F2150783C.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame_6_Sprite.uasset'
+[2021.01.30-13.24.09:865][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Gramps/Gramps_Flip" FILE="D:/GameProjects/LostBat/Content/MY_Assets/Gramps/Gramps_Flip.uasset" SILENT=true
+[2021.01.30-13.24.09:879][670]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/Gramps_FlipC8F5DD4B4C7380C43AE212951BCD4BE8.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/Gramps/Gramps_Flip.uasset'
+[2021.01.30-13.24.09:894][670]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.30-13.24.09:894][670]LogContentValidation: Display: Validating ObjectRedirector /Game/MY_Assets/Gramps/frame_6_Sprite.frame_6_Sprite
+[2021.01.30-13.24.09:894][670]LogContentValidation: Display: Validating PaperFlipbook /Game/MY_Assets/Gramps/Gramps_Flip.Gramps_Flip
+[2021.01.30-13.24.13:538][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.01.30-13.24.14:960][757]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.30-13.24.15:061][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.01.30-13.24.15:083][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.01.30-13.24.15:093][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.01.30-13.24.16:386][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.01.30-13.24.17:786][789]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.30-13.24.17:894][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.01.30-13.24.17:919][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.30-13.24.17:928][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.01.30-13.24.19:742][833]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.01.30-13.24.35:229][833]LogSlate: Window 'Replace References?' being destroyed
+[2021.01.30-13.24.35:235][833]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with frame5_Sprite; and then delete them.
+
+Are you sure?
+[2021.01.30-13.24.35:235][833]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.30-13.24.35:458][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.01.30-13.24.36:848][833]LogSlate: Window 'Save Content' being destroyed
+[2021.01.30-13.24.36:873][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Gramps/frame_5_Sprite" FILE="D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame_5_Sprite.uasset" SILENT=true
+[2021.01.30-13.24.36:890][833]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/frame_5_SpriteA228D49F43EA9185726B49BDFEBAD5BC.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame_5_Sprite.uasset'
+[2021.01.30-13.24.36:899][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Gramps/Gramps_Flip" FILE="D:/GameProjects/LostBat/Content/MY_Assets/Gramps/Gramps_Flip.uasset" SILENT=true
+[2021.01.30-13.24.36:911][833]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/Gramps_Flip764906504E3EB83C8B801F87770C0D32.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/Gramps/Gramps_Flip.uasset'
+[2021.01.30-13.24.36:926][833]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.30-13.24.36:926][833]LogContentValidation: Display: Validating ObjectRedirector /Game/MY_Assets/Gramps/frame_5_Sprite.frame_5_Sprite
+[2021.01.30-13.24.36:926][833]LogContentValidation: Display: Validating PaperFlipbook /Game/MY_Assets/Gramps/Gramps_Flip.Gramps_Flip
+[2021.01.30-13.24.43:174][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.01.30-13.24.57:576][975]LogSlate: Window 'Replace References?' being destroyed
+[2021.01.30-13.24.57:581][975]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with frame4_Sprite; and then delete them.
+
+Are you sure?
+[2021.01.30-13.24.57:581][975]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.30-13.24.57:798][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.01.30-13.24.59:068][975]LogSlate: Window 'Save Content' being destroyed
+[2021.01.30-13.24.59:104][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Gramps/frame_4_Sprite" FILE="D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame_4_Sprite.uasset" SILENT=true
+[2021.01.30-13.24.59:120][975]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/frame_4_Sprite9E90F6DB4FD090542AE271B1D8301265.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame_4_Sprite.uasset'
+[2021.01.30-13.24.59:129][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Gramps/Gramps_Flip" FILE="D:/GameProjects/LostBat/Content/MY_Assets/Gramps/Gramps_Flip.uasset" SILENT=true
+[2021.01.30-13.24.59:145][975]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/Gramps_Flip1D0A86204378B55E00936C97E59E4EA3.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/Gramps/Gramps_Flip.uasset'
+[2021.01.30-13.24.59:159][975]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.30-13.24.59:159][975]LogContentValidation: Display: Validating ObjectRedirector /Game/MY_Assets/Gramps/frame_4_Sprite.frame_4_Sprite
+[2021.01.30-13.24.59:159][975]LogContentValidation: Display: Validating PaperFlipbook /Game/MY_Assets/Gramps/Gramps_Flip.Gramps_Flip
+[2021.01.30-13.25.00:652][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.01.30-13.25.04:576][ 13]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.30-13.25.04:677][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.01.30-13.25.04:695][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.01.30-13.25.04:703][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.01.30-13.25.05:937][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.01.30-13.25.07:220][ 43]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.30-13.25.07:292][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.01.30-13.25.07:312][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.01.30-13.25.07:321][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.01.30-13.25.09:040][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.01.30-13.25.27:003][ 86]LogSlate: Window 'Replace References?' being destroyed
+[2021.01.30-13.25.27:008][ 86]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with frame3_Sprite; and then delete them.
+
+Are you sure?
+[2021.01.30-13.25.27:008][ 86]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.30-13.25.27:236][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.01.30-13.25.28:427][ 86]LogSlate: Window 'Save Content' being destroyed
+[2021.01.30-13.25.28:463][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Gramps/frame_3_Sprite" FILE="D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame_3_Sprite.uasset" SILENT=true
+[2021.01.30-13.25.28:480][ 86]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/frame_3_Sprite13EFA05C43136F1972767B8C083BE9E4.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame_3_Sprite.uasset'
+[2021.01.30-13.25.28:491][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Gramps/Gramps_Flip" FILE="D:/GameProjects/LostBat/Content/MY_Assets/Gramps/Gramps_Flip.uasset" SILENT=true
+[2021.01.30-13.25.28:508][ 86]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/Gramps_Flip2DBD90FB404EA6FC70275FA09ABC37ED.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/Gramps/Gramps_Flip.uasset'
+[2021.01.30-13.25.28:523][ 86]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.30-13.25.28:523][ 86]LogContentValidation: Display: Validating ObjectRedirector /Game/MY_Assets/Gramps/frame_3_Sprite.frame_3_Sprite
+[2021.01.30-13.25.28:523][ 86]LogContentValidation: Display: Validating PaperFlipbook /Game/MY_Assets/Gramps/Gramps_Flip.Gramps_Flip
+[2021.01.30-13.25.34:610][462]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2021.01.30-13.25.43:270][462]LogSlate: Window 'Replace References?' being destroyed
+[2021.01.30-13.25.43:275][462]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with frame2_Sprite; and then delete them.
+
+Are you sure?
+[2021.01.30-13.25.43:275][462]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.30-13.25.43:488][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.01.30-13.25.44:798][462]LogSlate: Window 'Save Content' being destroyed
+[2021.01.30-13.25.44:823][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Gramps/frame_2_Sprite" FILE="D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame_2_Sprite.uasset" SILENT=true
+[2021.01.30-13.25.44:843][462]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/frame_2_Sprite623E1E794FF0E07374DBBE97B63DD266.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame_2_Sprite.uasset'
+[2021.01.30-13.25.44:852][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Gramps/Gramps_Flip" FILE="D:/GameProjects/LostBat/Content/MY_Assets/Gramps/Gramps_Flip.uasset" SILENT=true
+[2021.01.30-13.25.44:866][462]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/Gramps_FlipD32FE3804AAB8FAECBB18EBD934E2EC2.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/Gramps/Gramps_Flip.uasset'
+[2021.01.30-13.25.44:881][462]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.30-13.25.44:881][462]LogContentValidation: Display: Validating ObjectRedirector /Game/MY_Assets/Gramps/frame_2_Sprite.frame_2_Sprite
+[2021.01.30-13.25.44:881][462]LogContentValidation: Display: Validating PaperFlipbook /Game/MY_Assets/Gramps/Gramps_Flip.Gramps_Flip
+[2021.01.30-13.25.47:526][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.01.30-13.25.56:347][526]LogSlate: Window 'Replace References?' being destroyed
+[2021.01.30-13.25.56:352][526]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with frame1_Sprite; and then delete them.
+
+Are you sure?
+[2021.01.30-13.25.56:352][526]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.30-13.25.56:567][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.01.30-13.25.57:673][526]LogSlate: Window 'Save Content' being destroyed
+[2021.01.30-13.25.57:705][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Gramps/frame_1_Sprite" FILE="D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame_1_Sprite.uasset" SILENT=true
+[2021.01.30-13.25.57:722][526]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/frame_1_Sprite9952D9EE4489654BFA77F9B91D82DA80.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame_1_Sprite.uasset'
+[2021.01.30-13.25.57:731][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Gramps/Gramps_Flip" FILE="D:/GameProjects/LostBat/Content/MY_Assets/Gramps/Gramps_Flip.uasset" SILENT=true
+[2021.01.30-13.25.57:745][526]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/Gramps_Flip1DFA902E43D7E7EB9E580D8A8E4BFA38.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/Gramps/Gramps_Flip.uasset'
+[2021.01.30-13.25.57:760][526]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.30-13.25.57:760][526]LogContentValidation: Display: Validating ObjectRedirector /Game/MY_Assets/Gramps/frame_1_Sprite.frame_1_Sprite
+[2021.01.30-13.25.57:760][526]LogContentValidation: Display: Validating PaperFlipbook /Game/MY_Assets/Gramps/Gramps_Flip.Gramps_Flip
+[2021.01.30-13.26.00:786][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.01.30-13.26.08:542][599]LogSlate: Window 'Replace References?' being destroyed
+[2021.01.30-13.26.08:549][599]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with frame0_Sprite; and then delete them.
+
+Are you sure?
+[2021.01.30-13.26.08:549][599]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.30-13.26.08:769][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.01.30-13.26.10:051][599]LogSlate: Window 'Save Content' being destroyed
+[2021.01.30-13.26.10:087][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Gramps/frame_0_Sprite" FILE="D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame_0_Sprite.uasset" SILENT=true
+[2021.01.30-13.26.10:105][599]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/frame_0_SpriteA6C9B0284983CCF5558D10918897CC40.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame_0_Sprite.uasset'
+[2021.01.30-13.26.10:114][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Gramps/Gramps_Flip" FILE="D:/GameProjects/LostBat/Content/MY_Assets/Gramps/Gramps_Flip.uasset" SILENT=true
+[2021.01.30-13.26.10:129][599]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/Gramps_FlipFB112BF84F09F9B96C91F699BC21D05D.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/Gramps/Gramps_Flip.uasset'
+[2021.01.30-13.26.10:141][599]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.30-13.26.10:141][599]LogContentValidation: Display: Validating ObjectRedirector /Game/MY_Assets/Gramps/frame_0_Sprite.frame_0_Sprite
+[2021.01.30-13.26.10:141][599]LogContentValidation: Display: Validating PaperFlipbook /Game/MY_Assets/Gramps/Gramps_Flip.Gramps_Flip
+[2021.01.30-13.26.14:119][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.01.30-13.26.15:690][690]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.30-13.26.15:794][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.01.30-13.26.15:806][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.01.30-13.26.15:816][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.01.30-13.26.15:824][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.01.30-13.26.15:849][690]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.01.30-13.26.15:857][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.01.30-13.26.23:184][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/MY_Map" FILE="D:/GameProjects/LostBat/Content/MY_BP/MY_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.30-13.26.23:204][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.01.30-13.26.23:247][867]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/MY_Map8F149AED4D14109CF25812825C578D5E.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/MY_Map.umap'
+[2021.01.30-13.26.23:276][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/MY_Map_BuiltData" FILE="D:/GameProjects/LostBat/Content/MY_BP/MY_Map_BuiltData.uasset" SILENT=true
+[2021.01.30-13.26.23:291][867]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/MY_Map_BuiltDataDDF79F6E47A5DA7AB20FCD8AB9468855.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/MY_Map_BuiltData.uasset'
+[2021.01.30-13.26.23:303][867]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.30-13.26.23:303][867]LogContentValidation: Display: Validating World /Game/MY_BP/MY_Map.MY_Map
+[2021.01.30-13.26.23:303][867]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MY_BP/MY_Map_BuiltData.MY_Map_BuiltData
+[2021.01.30-13.26.23:749][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.01.30-13.26.23:824][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Gramps/frame7_Sprite" FILE="D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame7_Sprite.uasset" SILENT=true
+[2021.01.30-13.26.23:841][879]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/frame7_SpriteF3AA977648CD40B3B102BC8378A432E4.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame7_Sprite.uasset'
+[2021.01.30-13.26.23:856][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Gramps/frame0_Sprite" FILE="D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame0_Sprite.uasset" SILENT=true
+[2021.01.30-13.26.23:874][879]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/frame0_Sprite22BC516647A0EE5D064FAF8AFE86B9DF.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame0_Sprite.uasset'
+[2021.01.30-13.26.23:885][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Gramps/frame1_Sprite" FILE="D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame1_Sprite.uasset" SILENT=true
+[2021.01.30-13.26.23:897][879]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/frame1_Sprite90859AB245F33978159888B1EAD26E34.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame1_Sprite.uasset'
+[2021.01.30-13.26.23:905][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Gramps/frame6_Sprite" FILE="D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame6_Sprite.uasset" SILENT=true
+[2021.01.30-13.26.23:917][879]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/frame6_Sprite1D646B484B4E60B50843F5B97DD31415.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame6_Sprite.uasset'
+[2021.01.30-13.26.23:924][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Gramps/frame5_Sprite" FILE="D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame5_Sprite.uasset" SILENT=true
+[2021.01.30-13.26.23:946][879]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/frame5_Sprite5A9085764E9F7E9F680CC3BD737E9AEF.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame5_Sprite.uasset'
+[2021.01.30-13.26.23:960][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Gramps/frame4_Sprite" FILE="D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame4_Sprite.uasset" SILENT=true
+[2021.01.30-13.26.23:977][879]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/frame4_Sprite12EAFEDA42BBFB8E2E1D7EAC1CA1FF08.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame4_Sprite.uasset'
+[2021.01.30-13.26.23:987][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Gramps/frame2_Sprite" FILE="D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame2_Sprite.uasset" SILENT=true
+[2021.01.30-13.26.23:997][879]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/frame2_Sprite41CDCC4D4CD7E918865684810C7C284C.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame2_Sprite.uasset'
+[2021.01.30-13.26.24:003][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Gramps/frame3_Sprite" FILE="D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame3_Sprite.uasset" SILENT=true
+[2021.01.30-13.26.24:014][879]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/frame3_Sprite3102147B400F6F5FC0D9A593409FE253.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame3_Sprite.uasset'
+[2021.01.30-13.26.24:023][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Gramps/frame5" FILE="D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame5.uasset" SILENT=true
+[2021.01.30-13.26.24:041][879]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/frame5D12B2D184340B47EA7E23DA53C6BAF56.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame5.uasset'
+[2021.01.30-13.26.24:049][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Gramps/frame6" FILE="D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame6.uasset" SILENT=true
+[2021.01.30-13.26.24:066][879]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/frame66F555F9D47223CC7723735822D20E8DC.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame6.uasset'
+[2021.01.30-13.26.24:074][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Gramps/frame7" FILE="D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame7.uasset" SILENT=true
+[2021.01.30-13.26.24:091][879]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/frame7327B90E149FC06574D181BB2D3135E23.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame7.uasset'
+[2021.01.30-13.26.24:099][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Gramps/frame0" FILE="D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame0.uasset" SILENT=true
+[2021.01.30-13.26.24:112][879]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/frame0D47240CA4BA9B71312990EA196003C34.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame0.uasset'
+[2021.01.30-13.26.24:120][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Gramps/frame1" FILE="D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame1.uasset" SILENT=true
+[2021.01.30-13.26.24:134][879]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/frame128F56ECC48F6D35E1D8ED2A5DA82A0F9.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame1.uasset'
+[2021.01.30-13.26.24:141][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Gramps/frame2" FILE="D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame2.uasset" SILENT=true
+[2021.01.30-13.26.24:155][879]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/frame28C0C8F1B4D462EE99CE765BF64CAE925.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame2.uasset'
+[2021.01.30-13.26.24:163][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Gramps/frame3" FILE="D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame3.uasset" SILENT=true
+[2021.01.30-13.26.24:177][879]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/frame37B592A4D4ED74E9EE9B2E0ABB4320836.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame3.uasset'
+[2021.01.30-13.26.24:185][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/Gramps/frame4" FILE="D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame4.uasset" SILENT=true
+[2021.01.30-13.26.24:200][879]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/frame493537885461BC719828E21B100E30B12.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/Gramps/frame4.uasset'
+[2021.01.30-13.26.24:226][879]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.30-13.26.24:226][879]LogContentValidation: Display: Validating PaperSprite /Game/MY_Assets/Gramps/frame7_Sprite.frame7_Sprite
+[2021.01.30-13.26.24:226][879]LogContentValidation: Display: Validating PaperSprite /Game/MY_Assets/Gramps/frame0_Sprite.frame0_Sprite
+[2021.01.30-13.26.24:226][879]LogContentValidation: Display: Validating PaperSprite /Game/MY_Assets/Gramps/frame1_Sprite.frame1_Sprite
+[2021.01.30-13.26.24:226][879]LogContentValidation: Display: Validating PaperSprite /Game/MY_Assets/Gramps/frame6_Sprite.frame6_Sprite
+[2021.01.30-13.26.24:226][879]LogContentValidation: Display: Validating PaperSprite /Game/MY_Assets/Gramps/frame5_Sprite.frame5_Sprite
+[2021.01.30-13.26.24:226][879]LogContentValidation: Display: Validating PaperSprite /Game/MY_Assets/Gramps/frame4_Sprite.frame4_Sprite
+[2021.01.30-13.26.24:227][879]LogContentValidation: Display: Validating PaperSprite /Game/MY_Assets/Gramps/frame2_Sprite.frame2_Sprite
+[2021.01.30-13.26.24:227][879]LogContentValidation: Display: Validating PaperSprite /Game/MY_Assets/Gramps/frame3_Sprite.frame3_Sprite
+[2021.01.30-13.26.24:227][879]LogContentValidation: Display: Validating Texture2D /Game/MY_Assets/Gramps/frame5.frame5
+[2021.01.30-13.26.24:227][879]LogContentValidation: Display: Validating Texture2D /Game/MY_Assets/Gramps/frame6.frame6
+[2021.01.30-13.26.24:227][879]LogContentValidation: Display: Validating Texture2D /Game/MY_Assets/Gramps/frame7.frame7
+[2021.01.30-13.26.24:227][879]LogContentValidation: Display: Validating Texture2D /Game/MY_Assets/Gramps/frame0.frame0
+[2021.01.30-13.26.24:227][879]LogContentValidation: Display: Validating Texture2D /Game/MY_Assets/Gramps/frame1.frame1
+[2021.01.30-13.26.24:227][879]LogContentValidation: Display: Validating Texture2D /Game/MY_Assets/Gramps/frame2.frame2
+[2021.01.30-13.26.24:227][879]LogContentValidation: Display: Validating Texture2D /Game/MY_Assets/Gramps/frame3.frame3
+[2021.01.30-13.26.24:227][879]LogContentValidation: Display: Validating Texture2D /Game/MY_Assets/Gramps/frame4.frame4
+[2021.01.30-13.30.31:884][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.01.30-13.30.33:026][786]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.30-13.30.33:177][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.01.30-13.30.33:194][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.01.30-13.30.33:204][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.01.30-13.30.33:216][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.01.30-13.30.33:225][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.01.30-13.30.33:235][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.01.30-13.30.33:244][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.01.30-13.30.33:253][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.01.30-13.30.33:262][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.01.30-13.30.33:271][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.01.30-13.30.33:281][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.01.30-13.30.33:290][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.01.30-13.30.33:299][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.01.30-13.30.33:308][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.01.30-13.30.33:317][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.01.30-13.30.33:325][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.01.30-13.30.33:334][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.01.30-13.30.33:351][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.01.30-13.30.33:360][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.01.30-13.30.43:709][853]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GameProjects\GGJ21\small kiki flying sprites\small kiki flying sprites\frame5.png)
+[2021.01.30-13.30.43:717][853]LogTexture: Display: Building textures: frame5 (AutoDXT, 500X500)
+[2021.01.30-13.30.43:803][853]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GameProjects\GGJ21\small kiki flying sprites\small kiki flying sprites\frame6.png)
+[2021.01.30-13.30.43:810][853]LogTexture: Display: Building textures: frame6 (AutoDXT, 500X500)
+[2021.01.30-13.30.43:886][853]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GameProjects\GGJ21\small kiki flying sprites\small kiki flying sprites\frame7.png)
+[2021.01.30-13.30.43:892][853]LogTexture: Display: Building textures: frame7 (AutoDXT, 500X500)
+[2021.01.30-13.30.43:999][853]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GameProjects\GGJ21\small kiki flying sprites\small kiki flying sprites\frame0.png)
+[2021.01.30-13.30.44:007][853]LogTexture: Display: Building textures: frame0 (AutoDXT, 500X500)
+[2021.01.30-13.30.44:091][853]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GameProjects\GGJ21\small kiki flying sprites\small kiki flying sprites\frame1.png)
+[2021.01.30-13.30.44:098][853]LogTexture: Display: Building textures: frame1 (AutoDXT, 500X500)
+[2021.01.30-13.30.44:180][853]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GameProjects\GGJ21\small kiki flying sprites\small kiki flying sprites\frame2.png)
+[2021.01.30-13.30.44:186][853]LogTexture: Display: Building textures: frame2 (AutoDXT, 500X500)
+[2021.01.30-13.30.44:274][853]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GameProjects\GGJ21\small kiki flying sprites\small kiki flying sprites\frame3.png)
+[2021.01.30-13.30.44:281][853]LogTexture: Display: Building textures: frame3 (AutoDXT, 500X500)
+[2021.01.30-13.30.44:390][853]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GameProjects\GGJ21\small kiki flying sprites\small kiki flying sprites\frame4.png)
+[2021.01.30-13.30.44:397][853]LogTexture: Display: Building textures: frame4 (AutoDXT, 500X500)
+[2021.01.30-13.30.47:352][ 23]LogTexture: Display: Building textures: frame0 (BGRA8, 500X500)
+[2021.01.30-13.30.47:364][ 23]LogTexture: Display: Building textures: frame1 (BGRA8, 500X500)
+[2021.01.30-13.30.47:374][ 23]LogTexture: Display: Building textures: frame2 (BGRA8, 500X500)
+[2021.01.30-13.30.47:384][ 23]LogTexture: Display: Building textures: frame3 (BGRA8, 500X500)
+[2021.01.30-13.30.47:393][ 23]LogTexture: Display: Building textures: frame4 (BGRA8, 500X500)
+[2021.01.30-13.30.47:402][ 23]LogTexture: Display: Building textures: frame5 (BGRA8, 500X500)
+[2021.01.30-13.30.47:411][ 23]LogTexture: Display: Building textures: frame6 (BGRA8, 500X500)
+[2021.01.30-13.30.47:420][ 23]LogTexture: Display: Building textures: frame7 (BGRA8, 500X500)
+[2021.01.30-13.30.51:767][286]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(784)].
+[2021.01.30-13.31.02:950][757]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/MY_Assets/Kiki/Kiki_Flip.Kiki_Flip
+[2021.01.30-13.31.08:191][819]LogSlate: Window 'Kiki_Flip' being destroyed
+[2021.01.30-13.31.08:228][819]LogSlate: Window 'Kiki_Flip' being destroyed
+[2021.01.30-13.31.08:231][819]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-13.31.08:232][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-13.31.52:556][864]LogEditorViewport: Clicking on Actor (LMB): BP_BatRelative_C (BP_BatRelative2)
+[2021.01.30-13.31.55:725][938]LogSlate: Took 0.008823 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.30-13.32.02:270][161]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Caves)
+[2021.01.30-13.32.03:612][181]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Caves)
+[2021.01.30-13.32.04:582][197]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Caves)
+[2021.01.30-13.32.11:551][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/MY_Map" FILE="D:/GameProjects/LostBat/Content/MY_BP/MY_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.30-13.32.11:571][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.01.30-13.32.11:616][345]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/MY_Map1E73996B416BA4A400996A915ED3C33D.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/MY_Map.umap'
+[2021.01.30-13.32.11:666][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/MY_Map_BuiltData" FILE="D:/GameProjects/LostBat/Content/MY_BP/MY_Map_BuiltData.uasset" SILENT=true
+[2021.01.30-13.32.11:684][345]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/MY_Map_BuiltData070FC124438FC8492AB79AB36F6E7313.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/MY_Map_BuiltData.uasset'
+[2021.01.30-13.32.11:695][345]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.30-13.32.11:696][345]LogContentValidation: Display: Validating World /Game/MY_BP/MY_Map.MY_Map
+[2021.01.30-13.32.11:696][345]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MY_BP/MY_Map_BuiltData.MY_Map_BuiltData
+[2021.01.30-13.32.23:988][519]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.01.30-13.32.25:191][519]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.30-13.32.25:344][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.01.30-13.32.25:360][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.01.30-13.32.25:370][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.01.30-13.32.25:379][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.01.30-13.32.25:390][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.01.30-13.32.25:400][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.01.30-13.32.25:409][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.01.30-13.32.25:419][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.01.30-13.32.25:427][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.01.30-13.32.25:436][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.01.30-13.32.25:444][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.01.30-13.32.25:454][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.01.30-13.32.25:462][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.01.30-13.32.25:471][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.01.30-13.32.25:480][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.01.30-13.32.25:488][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.01.30-13.32.25:497][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.01.30-13.32.25:514][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.01.30-13.32.25:522][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.01.30-13.32.30:197][561]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GameProjects\GGJ21\small_mama_flying_sprites\small_mama_flying_sprites\frame5.png)
+[2021.01.30-13.32.30:203][561]LogTexture: Display: Building textures: frame5 (AutoDXT, 500X500)
+[2021.01.30-13.32.30:282][561]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GameProjects\GGJ21\small_mama_flying_sprites\small_mama_flying_sprites\frame6.png)
+[2021.01.30-13.32.30:290][561]LogTexture: Display: Building textures: frame6 (AutoDXT, 500X500)
+[2021.01.30-13.32.30:372][561]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GameProjects\GGJ21\small_mama_flying_sprites\small_mama_flying_sprites\frame7.png)
+[2021.01.30-13.32.30:379][561]LogTexture: Display: Building textures: frame7 (AutoDXT, 500X500)
+[2021.01.30-13.32.30:472][561]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GameProjects\GGJ21\small_mama_flying_sprites\small_mama_flying_sprites\frame0.png)
+[2021.01.30-13.32.30:480][561]LogTexture: Display: Building textures: frame0 (AutoDXT, 500X500)
+[2021.01.30-13.32.30:573][561]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GameProjects\GGJ21\small_mama_flying_sprites\small_mama_flying_sprites\frame1.png)
+[2021.01.30-13.32.30:580][561]LogTexture: Display: Building textures: frame1 (AutoDXT, 500X500)
+[2021.01.30-13.32.30:675][561]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GameProjects\GGJ21\small_mama_flying_sprites\small_mama_flying_sprites\frame2.png)
+[2021.01.30-13.32.30:682][561]LogTexture: Display: Building textures: frame2 (AutoDXT, 500X500)
+[2021.01.30-13.32.30:770][561]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GameProjects\GGJ21\small_mama_flying_sprites\small_mama_flying_sprites\frame3.png)
+[2021.01.30-13.32.30:777][561]LogTexture: Display: Building textures: frame3 (AutoDXT, 500X500)
+[2021.01.30-13.32.30:904][561]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GameProjects\GGJ21\small_mama_flying_sprites\small_mama_flying_sprites\frame4.png)
+[2021.01.30-13.32.30:911][561]LogTexture: Display: Building textures: frame4 (AutoDXT, 500X500)
+[2021.01.30-13.32.37:452][768]LogTexture: Display: Building textures: frame0 (BGRA8, 500X500)
+[2021.01.30-13.32.37:460][768]LogTexture: Display: Building textures: frame1 (BGRA8, 500X500)
+[2021.01.30-13.32.37:470][768]LogTexture: Display: Building textures: frame2 (BGRA8, 500X500)
+[2021.01.30-13.32.37:481][768]LogTexture: Display: Building textures: frame3 (BGRA8, 500X500)
+[2021.01.30-13.32.37:490][768]LogTexture: Display: Building textures: frame4 (BGRA8, 500X500)
+[2021.01.30-13.32.37:502][768]LogTexture: Display: Building textures: frame5 (BGRA8, 500X500)
+[2021.01.30-13.32.37:512][768]LogTexture: Display: Building textures: frame6 (BGRA8, 500X500)
+[2021.01.30-13.32.37:521][768]LogTexture: Display: Building textures: frame7 (BGRA8, 500X500)
+[2021.01.30-13.32.39:215][838]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.01.30-13.32.40:180][838]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.964 s
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: === Handled ensure: ===
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: 
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Licensee\Sync\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateDynamicImageBrush.h] [Line: 119]
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: This hack usually results in a crash during loading screens in slate.  Please change any code that arrives here to not use FSlateDynamicImageBrush.  In the case of loading screens, you can use FDeferredCleanupSlateBrush.  Which correctly accounts for both GC lifetime, and the lifetime of the object through the slate rendering pipeline which may be several frames after you stop using it.
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: Stack: 
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: [Callstack] 0x00007ffda715ab18 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: [Callstack] 0x00007ffda6f1e347 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: [Callstack] 0x00007ffda6ed2e64 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: [Callstack] 0x00007ffda4211d0c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: [Callstack] 0x00007ffda3c9999b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: [Callstack] 0x00007ffd94996d22 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: [Callstack] 0x00007ffd949b870c UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: [Callstack] 0x00007ffd949c145c UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: [Callstack] 0x00007ffda744ab85 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: [Callstack] 0x00007ffda7451320 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: [Callstack] 0x00007ffda742a937 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: [Callstack] 0x00007ffda74c207e UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: [Callstack] 0x00007ffda74db27e UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: [Callstack] 0x00007ffda7452a95 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: [Callstack] 0x00007ffda7322dc8 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: [Callstack] 0x00007ffda73a69cf UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: [Callstack] 0x00007ffda738f4b2 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: [Callstack] 0x00007ffda7382392 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: [Callstack] 0x00007ffdfec67f88 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: [Callstack] 0x00007ffdfec55c87 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: [Callstack] 0x00007ffdfec6a609 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: [Callstack] 0x00007ffdfec517d0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: [Callstack] 0x00007ffe3a73e858 USER32.dll!UnknownFunction []
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: [Callstack] 0x00007ffe3a73e299 USER32.dll!UnknownFunction []
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: [Callstack] 0x00007ffdfec6bb24 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: [Callstack] 0x00007ff7c03c68c4 UE4Editor.exe!UnknownFunction []
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: [Callstack] 0x00007ff7c03dba7c UE4Editor.exe!UnknownFunction []
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: [Callstack] 0x00007ff7c03dbb5a UE4Editor.exe!UnknownFunction []
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: [Callstack] 0x00007ff7c03ee31d UE4Editor.exe!UnknownFunction []
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: [Callstack] 0x00007ff7c03f145a UE4Editor.exe!UnknownFunction []
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: [Callstack] 0x00007ffe3aea7034 KERNEL32.DLL!UnknownFunction []
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: [Callstack] 0x00007ffe3b4fd0d1 ntdll.dll!UnknownFunction []
+[2021.01.30-13.32.40:180][838]LogOutputDevice: Error: 
