@@ -1093,3 +1093,1019 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.31-12.33.17:328][682]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/BP_BatRelative5547D75F4437342D3A07F68E7CE50820.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/BP_BatRelative.uasset'
 [2021.01.31-12.33.17:342][682]AssetCheck: New page: Asset Save: BP_BatRelative
 [2021.01.31-12.33.17:342][682]LogContentValidation: Display: Validating Blueprint /Game/MY_BP/BP_BatRelative.BP_BatRelative
+[2021.01.31-12.33.56:067][169]LogEditorViewport: Clicking on Actor (LMB): BP_BatRelative_C (BP_BatRelative2)
+[2021.01.31-12.34.11:408][572]LogEditorViewport: Clicking on Actor (LMB): BP_BatRelative_C (BP_BatRelative3)
+[2021.01.31-12.34.23:435][885]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Caves)
+[2021.01.31-12.34.25:090][915]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Caves)
+[2021.01.31-12.34.26:518][948]LogEditorViewport: Clicking on Actor (LMB): BP_BatRelative_C (BP_BatRelative)
+[2021.01.31-12.34.47:294][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/MY_Map" FILE="D:/GameProjects/LostBat/Content/MY_BP/MY_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.31-12.34.47:346][470]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2021.01.31-12.34.47:389][470]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/MY_Map14D2324E438A46BD0A8DE5BF73FB2C09.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/MY_Map.umap'
+[2021.01.31-12.34.47:427][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/MY_Map_BuiltData" FILE="D:/GameProjects/LostBat/Content/MY_BP/MY_Map_BuiltData.uasset" SILENT=true
+[2021.01.31-12.34.47:444][470]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/MY_Map_BuiltData021A2AA44E99E123A91647B5153E6BAC.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/MY_Map_BuiltData.uasset'
+[2021.01.31-12.34.47:462][470]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-12.34.47:462][470]LogContentValidation: Display: Validating World /Game/MY_BP/MY_Map.MY_Map
+[2021.01.31-12.34.47:462][470]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MY_BP/MY_Map_BuiltData.MY_Map_BuiltData
+[2021.01.31-12.34.47:568][472]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.01.31-12.35.13:874][  6]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MY_BP/Widgets/WBP_StarterScreen.WBP_StarterScreen
+[2021.01.31-12.36.29:989][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_StarterScreen" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_StarterScreen.uasset" SILENT=true
+[2021.01.31-12.36.30:047][112]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_StarterScreenC9C743864F44A1A35102E8B412DF0097.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_StarterScreen.uasset'
+[2021.01.31-12.36.30:068][112]AssetCheck: New page: Asset Save: WBP_StarterScreen
+[2021.01.31-12.36.30:068][112]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_StarterScreen.WBP_StarterScreen
+[2021.01.31-12.38.28:756][209]BlueprintLog: New page: Compile WBP_StarterScreen
+[2021.01.31-12.38.28:875][209]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2021.01.31-12.38.29:157][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_StarterScreen" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_StarterScreen.uasset" SILENT=true
+[2021.01.31-12.38.29:188][212]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_StarterScreen2E9119934D5B6084209442AD1F02F597.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_StarterScreen.uasset'
+[2021.01.31-12.38.29:201][212]AssetCheck: New page: Asset Save: WBP_StarterScreen
+[2021.01.31-12.38.29:201][212]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_StarterScreen.WBP_StarterScreen
+[2021.01.31-12.38.34:664][325]BlueprintLog: New page: Compile WBP_StarterScreen
+[2021.01.31-12.38.34:782][325]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2021.01.31-12.38.35:543][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_StarterScreen" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_StarterScreen.uasset" SILENT=true
+[2021.01.31-12.38.35:571][340]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_StarterScreen913AC9354B989A15A34DA3BFDC7D0113.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_StarterScreen.uasset'
+[2021.01.31-12.38.35:585][340]AssetCheck: New page: Asset Save: WBP_StarterScreen
+[2021.01.31-12.38.35:585][340]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_StarterScreen.WBP_StarterScreen
+[2021.01.31-12.38.48:926][617]BlueprintLog: New page: Compile WBP_StarterScreen
+[2021.01.31-12.38.49:062][617]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2021.01.31-12.38.49:447][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_StarterScreen" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_StarterScreen.uasset" SILENT=true
+[2021.01.31-12.38.49:478][624]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_StarterScreenFF389457493C9C05957927B8F5D50870.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_StarterScreen.uasset'
+[2021.01.31-12.38.49:491][624]AssetCheck: New page: Asset Save: WBP_StarterScreen
+[2021.01.31-12.38.49:492][624]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_StarterScreen.WBP_StarterScreen
+[2021.01.31-12.38.52:360][679]BlueprintLog: New page: Compile WBP_StarterScreen
+[2021.01.31-12.38.52:416][679]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2021.01.31-12.38.52:847][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_StarterScreen" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_StarterScreen.uasset" SILENT=true
+[2021.01.31-12.38.52:876][687]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_StarterScreen738561BE47D104EE2D1909BFD43CCA38.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_StarterScreen.uasset'
+[2021.01.31-12.38.52:889][687]AssetCheck: New page: Asset Save: WBP_StarterScreen
+[2021.01.31-12.38.52:889][687]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_StarterScreen.WBP_StarterScreen
+[2021.01.31-12.39.57:019][977]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-12.40.02:219][ 77]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-12.40.09:234][213]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-12.40.13:068][292]BlueprintLog: New page: Compile WBP_StarterScreen
+[2021.01.31-12.40.13:125][292]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2021.01.31-12.40.13:588][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_StarterScreen" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_StarterScreen.uasset" SILENT=true
+[2021.01.31-12.40.13:618][298]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_StarterScreen7B71DA4B454714E87C9586A8DD27753C.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_StarterScreen.uasset'
+[2021.01.31-12.40.13:634][298]AssetCheck: New page: Asset Save: WBP_StarterScreen
+[2021.01.31-12.40.13:634][298]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_StarterScreen.WBP_StarterScreen
+[2021.01.31-12.40.56:186][162]BlueprintLog: New page: Compile WBP_StarterScreen
+[2021.01.31-12.40.56:244][162]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2021.01.31-12.40.56:707][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_StarterScreen" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_StarterScreen.uasset" SILENT=true
+[2021.01.31-12.40.56:762][169]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_StarterScreen35CCA6B644718754E7312793C4A93728.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_StarterScreen.uasset'
+[2021.01.31-12.40.56:777][169]AssetCheck: New page: Asset Save: WBP_StarterScreen
+[2021.01.31-12.40.56:777][169]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_StarterScreen.WBP_StarterScreen
+[2021.01.31-12.42.22:993][926]BlueprintLog: New page: Compile WBP_StarterScreen
+[2021.01.31-12.42.23:083][926]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2021.01.31-12.42.23:377][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_StarterScreen" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_StarterScreen.uasset" SILENT=true
+[2021.01.31-12.42.23:415][931]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_StarterScreen04AFDA884AA53020B59C598FBBC1C4EC.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_StarterScreen.uasset'
+[2021.01.31-12.42.23:427][931]AssetCheck: New page: Asset Save: WBP_StarterScreen
+[2021.01.31-12.42.23:427][931]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_StarterScreen.WBP_StarterScreen
+[2021.01.31-12.43.04:706][739]BlueprintLog: New page: Compile WBP_StarterScreen
+[2021.01.31-12.43.04:768][739]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2021.01.31-12.43.05:154][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_StarterScreen" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_StarterScreen.uasset" SILENT=true
+[2021.01.31-12.43.05:193][745]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_StarterScreenFFA263134460EAD7A07C4FA04D8362B8.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_StarterScreen.uasset'
+[2021.01.31-12.43.05:208][745]AssetCheck: New page: Asset Save: WBP_StarterScreen
+[2021.01.31-12.43.05:208][745]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_StarterScreen.WBP_StarterScreen
+[2021.01.31-12.43.23:659][123]BlueprintLog: New page: Compile WBP_StarterScreen
+[2021.01.31-12.43.23:776][123]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2021.01.31-12.43.24:067][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_StarterScreen" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_StarterScreen.uasset" SILENT=true
+[2021.01.31-12.43.24:099][128]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_StarterScreenE793D8AD4CE9185D6BB0FCA6ECF95073.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_StarterScreen.uasset'
+[2021.01.31-12.43.24:112][128]AssetCheck: New page: Asset Save: WBP_StarterScreen
+[2021.01.31-12.43.24:112][128]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_StarterScreen.WBP_StarterScreen
+[2021.01.31-12.43.44:727][652]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MY_BP/Menu.Menu
+[2021.01.31-12.43.44:765][652]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2021.01.31-12.43.44:768][652]Cmd: MAP LOAD FILE="D:/GameProjects/LostBat/Content/MY_BP/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.31-12.43.44:768][652]LightingResults: New page: Lighting Build
+[2021.01.31-12.43.44:770][652]LoadErrors: New page: Loading map: Menu.umap
+[2021.01.31-12.43.44:788][652]LogWorld: UWorld::CleanupWorld for MY_Map, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-12.43.44:788][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-12.43.44:789][652]MapCheck: New page: Map Check
+[2021.01.31-12.43.44:789][652]LightingResults: New page: Lighting Build
+[2021.01.31-12.43.44:824][652]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002342E744600), frame # 54652
+[2021.01.31-12.43.44:825][652]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000234199F4900), frame # 54652
+[2021.01.31-12.43.44:828][652]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.01.31-12.43.44:918][652]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.31-12.43.44:918][652]LogAIModule: Creating AISystem for world Menu
+[2021.01.31-12.43.44:918][652]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000234B6254400), frame # 54652
+[2021.01.31-12.43.44:919][652]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023494B9D6C0), frame # 54652
+[2021.01.31-12.43.44:959][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.01.31-12.43.44:988][652]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.31-12.43.44:988][652]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.078ms to complete.
+[2021.01.31-12.43.44:988][652]LogFileHelpers: Loading map 'Menu' took 0.219
+[2021.01.31-12.43.46:149][685]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-12.43.46:203][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-12.43.46:204][685]PIE: New page: PIE session: Menu (Jan 31, 2021, 12:43:46 PM)
+[2021.01.31-12.43.46:205][685]LogPlayLevel: Creating play world package: /Game/MY_BP/UEDPIE_0_Menu
+[2021.01.31-12.43.46:208][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003016s)
+[2021.01.31-12.43.46:210][685]LogAIModule: Creating AISystem for world Menu
+[2021.01.31-12.43.46:210][685]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002343B47C600), frame # 54685
+[2021.01.31-12.43.46:210][685]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002348FB00900), frame # 54685
+[2021.01.31-12.43.46:211][685]LogPlayLevel: PIE: World Init took: (0.002326s)
+[2021.01.31-12.43.46:211][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MY_BP/Menu.Menu to /Game/MY_BP/UEDPIE_0_Menu.Menu (0.005756s)
+[2021.01.31-12.43.46:254][685]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.01.31-12.43.46:255][685]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-12.43.46:255][685]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-12.43.46:255][685]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-12.43.46:255][685]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-12.43.46:255][685]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-12.43.46:255][685]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-12.43.46:255][685]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-12.43.46:255][685]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-12.43.46:256][685]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-12.43.46:256][685]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-12.43.46:261][685]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-12.43.46:261][685]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-12.43.46:275][685]LogAudioMixer: Display: Using Audio Device Headphones (Synaptics HD Audio)
+[2021.01.31-12.43.46:276][685]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-12.43.46:276][685]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-12.43.46:276][685]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-12.43.46:276][685]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-12.43.46:289][685]LogInit: FAudioDevice initialized.
+[2021.01.31-12.43.46:296][685]LogLoad: Game class is 'GM_Menu_C'
+[2021.01.31-12.43.46:297][685]LogWorld: Bringing World /Game/MY_BP/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2021.01.31-12.43.46
+[2021.01.31-12.43.46:297][685]LogWorld: Bringing up level for play took: 0.000299
+[2021.01.31-12.43.46:297][685]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.01.31-12.43.46:300][685]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.01.31-12.43.46:300][685]PIE: Server logged in
+[2021.01.31-12.43.46:301][685]PIE: Play in editor total start time 0.101 seconds.
+[2021.01.31-12.43.48:739][821]LogNet: Browse: /Game/MY_BP/MY_Map
+[2021.01.31-12.43.48:739][821]LogLoad: LoadMap: /Game/MY_BP/MY_Map
+[2021.01.31-12.43.48:739][821]LogWorld: BeginTearingDown for /Game/MY_BP/UEDPIE_0_Menu
+[2021.01.31-12.43.48:740][821]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-12.43.48:740][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-12.43.48:788][821]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002348FB00900), frame # 54821
+[2021.01.31-12.43.48:788][821]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002343B47C600), frame # 54821
+[2021.01.31-12.43.48:792][821]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.01.31-12.43.48:805][821]LogAIModule: Creating AISystem for world MY_Map
+[2021.01.31-12.43.48:805][821]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002343B47E400), frame # 54821
+[2021.01.31-12.43.48:805][821]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000234900D2700), frame # 54821
+[2021.01.31-12.43.48:805][821]LogLoad: Game class is 'MY_GM_C'
+[2021.01.31-12.43.48:847][821]LogWorld: Bringing World /Game/MY_BP/UEDPIE_0_MY_Map.MY_Map up for play (max tick rate 0) at 2021.01.31-12.43.48
+[2021.01.31-12.43.48:848][821]LogWorld: Bringing up level for play took: 0.042089
+[2021.01.31-12.43.48:887][821]PIE: Warning: The widget 'HUD_C' was already added to the screen.
+[2021.01.31-12.43.48:888][821]LogLoad: Took 0.148921 seconds to LoadMap(/Game/MY_BP/MY_Map)
+[2021.01.31-12.43.50:386][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-12.43.50:386][880]LogWorld: BeginTearingDown for /Game/MY_BP/UEDPIE_0_MY_Map
+[2021.01.31-12.43.50:386][880]LogWorld: UWorld::CleanupWorld for MY_Map, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-12.43.50:411][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-12.43.50:423][880]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-12.43.50:430][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-12.43.50:512][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-12.43.50:514][880]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000234900D2700), frame # 54880
+[2021.01.31-12.43.50:514][880]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002343B47E400), frame # 54880
+[2021.01.31-12.43.50:520][880]LogUObjectHash: Compacting FUObjectHashTables data took   5.75ms
+[2021.01.31-12.43.50:629][881]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.01.31-12.44.03:651][114]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-12.44.03:714][114]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-12.44.15:340][447]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MY_BP/Widgets/WBP_EndGame.WBP_EndGame
+[2021.01.31-12.44.32:966][847]LogSlate: Took 0.014424 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.01.31-12.44.58:876][436]BlueprintLog: New page: Compile WBP_EndGame
+[2021.01.31-12.44.58:959][436]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2021.01.31-12.44.59:407][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_EndGame" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset" SILENT=true
+[2021.01.31-12.44.59:441][443]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_EndGame1A2ADC634DF320F0B1717382F97FB678.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset'
+[2021.01.31-12.44.59:457][443]AssetCheck: New page: Asset Save: WBP_EndGame
+[2021.01.31-12.44.59:457][443]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_EndGame.WBP_EndGame
+[2021.01.31-12.45.09:410][670]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-12.45.23:440][982]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-12.45.30:360][136]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-12.45.32:286][179]BlueprintLog: New page: Compile WBP_EndGame
+[2021.01.31-12.45.32:346][179]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2021.01.31-12.45.32:773][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_EndGame" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset" SILENT=true
+[2021.01.31-12.45.32:808][186]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_EndGameBBB74F2044D4EF66C2E0B69E3C4A0CE6.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset'
+[2021.01.31-12.45.32:823][186]AssetCheck: New page: Asset Save: WBP_EndGame
+[2021.01.31-12.45.32:823][186]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_EndGame.WBP_EndGame
+[2021.01.31-12.45.42:223][403]BlueprintLog: New page: Compile WBP_EndGame
+[2021.01.31-12.45.42:286][403]LogUObjectHash: Compacting FUObjectHashTables data took   5.98ms
+[2021.01.31-12.45.42:756][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_EndGame" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset" SILENT=true
+[2021.01.31-12.45.42:789][411]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_EndGameB55079C44B1B7C1DC07E22A568AD8C4E.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset'
+[2021.01.31-12.45.42:803][411]AssetCheck: New page: Asset Save: WBP_EndGame
+[2021.01.31-12.45.42:803][411]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_EndGame.WBP_EndGame
+[2021.01.31-12.45.53:478][653]LogEditorTransaction: Undo Delete Animation
+[2021.01.31-12.46.23:624][337]BlueprintLog: New page: Compile WBP_EndGame
+[2021.01.31-12.46.23:686][337]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2021.01.31-12.46.24:037][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_EndGame" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset" SILENT=true
+[2021.01.31-12.46.24:066][342]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_EndGame4B9AE06B4CDA63059328AEBF0317E01D.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset'
+[2021.01.31-12.46.24:081][342]AssetCheck: New page: Asset Save: WBP_EndGame
+[2021.01.31-12.46.24:081][342]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_EndGame.WBP_EndGame
+[2021.01.31-12.46.52:823][986]BlueprintLog: New page: Compile WBP_EndGame
+[2021.01.31-12.46.52:940][986]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2021.01.31-12.46.53:291][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_EndGame" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset" SILENT=true
+[2021.01.31-12.46.53:320][992]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_EndGameB5F99D19413C47562FBB288F4C275933.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset'
+[2021.01.31-12.46.53:333][992]AssetCheck: New page: Asset Save: WBP_EndGame
+[2021.01.31-12.46.53:333][992]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_EndGame.WBP_EndGame
+[2021.01.31-12.47.26:822][738]BlueprintLog: New page: Compile WBP_EndGame
+[2021.01.31-12.47.26:928][738]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2021.01.31-12.47.27:358][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_EndGame" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset" SILENT=true
+[2021.01.31-12.47.27:393][745]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_EndGame8F55589F42E9E3C2B54851B41F06EE51.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset'
+[2021.01.31-12.47.27:409][745]AssetCheck: New page: Asset Save: WBP_EndGame
+[2021.01.31-12.47.27:409][745]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_EndGame.WBP_EndGame
+[2021.01.31-12.47.44:371][108]BlueprintLog: New page: Compile WBP_EndGame
+[2021.01.31-12.47.44:433][108]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2021.01.31-12.47.44:903][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_EndGame" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset" SILENT=true
+[2021.01.31-12.47.44:939][116]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_EndGame7FCDFFD44554DE22775D3AAD66831201.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset'
+[2021.01.31-12.47.44:956][116]AssetCheck: New page: Asset Save: WBP_EndGame
+[2021.01.31-12.47.44:956][116]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_EndGame.WBP_EndGame
+[2021.01.31-12.47.56:741][371]BlueprintLog: New page: Compile WBP_EndGame
+[2021.01.31-12.47.56:804][371]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2021.01.31-12.47.57:638][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_EndGame" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset" SILENT=true
+[2021.01.31-12.47.57:668][387]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_EndGame69F0DBAC4E7113B1C2608B9E1D89642E.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset'
+[2021.01.31-12.47.57:686][387]AssetCheck: New page: Asset Save: WBP_EndGame
+[2021.01.31-12.47.57:686][387]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_EndGame.WBP_EndGame
+[2021.01.31-12.50.45:527][437]BlueprintLog: New page: Compile WBP_EndGame
+[2021.01.31-12.50.45:619][437]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2021.01.31-12.50.46:403][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_EndGame" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset" SILENT=true
+[2021.01.31-12.50.46:459][452]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_EndGame47803783401B8ECEF861FC93FC36343B.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset'
+[2021.01.31-12.50.46:473][452]AssetCheck: New page: Asset Save: WBP_EndGame
+[2021.01.31-12.50.46:473][452]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_EndGame.WBP_EndGame
+[2021.01.31-12.51.30:299][392]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-12.51.37:713][549]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-12.51.39:383][585]BlueprintLog: New page: Compile WBP_EndGame
+[2021.01.31-12.51.39:446][585]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2021.01.31-12.51.39:790][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_EndGame" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset" SILENT=true
+[2021.01.31-12.51.39:823][590]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_EndGame105617C14EDE0DE68662D7B62F3473B0.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset'
+[2021.01.31-12.51.39:839][590]AssetCheck: New page: Asset Save: WBP_EndGame
+[2021.01.31-12.51.39:839][590]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_EndGame.WBP_EndGame
+[2021.01.31-12.52.53:124][189]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-12.53.07:084][478]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-12.53.20:591][768]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-12.53.22:257][801]BlueprintLog: New page: Compile WBP_EndGame
+[2021.01.31-12.53.22:334][801]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2021.01.31-12.53.22:837][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_EndGame" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset" SILENT=true
+[2021.01.31-12.53.22:870][809]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_EndGameAD30A52A4DCBFD85022A33860300F0A6.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset'
+[2021.01.31-12.53.22:883][809]AssetCheck: New page: Asset Save: WBP_EndGame
+[2021.01.31-12.53.22:883][809]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_EndGame.WBP_EndGame
+[2021.01.31-12.53.40:312][151]LogSlate: Window 'Message' being destroyed
+[2021.01.31-12.53.40:318][151]Message dialog closed, result: Ok, title: Message, text: You do not have sufficient permission to save the following content to disk. Any changes you make to this content will only apply during the current editor session.
+
+/Engine/UMG/Editor/Transient
+
+[2021.01.31-12.54.08:809][773]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-12.54.13:065][860]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-12.55.20:743][841]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2021.01.31-12.55.20:745][841]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MY_BP/Menu' took 0.045
+[2021.01.31-12.55.20:745][841]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MY_BP/Widgets/WBP_EndGame] ([1] browsable assets)...
+[2021.01.31-12.55.20:745][841]OBJ SavePackage: Finished generating thumbnails for package [/Game/MY_BP/Widgets/WBP_EndGame]
+[2021.01.31-12.55.20:745][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_EndGame" FILE="D:/GameProjects/LostBat/Saved/Autosaves/Game/MY_BP/Widgets/WBP_EndGame_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2021.01.31-12.55.20:774][841]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_EndGame_Auto313C49B1E4EB034D3941F28AEF0FE4B6D.tmp' to 'D:/GameProjects/LostBat/Saved/Autosaves/Game/MY_BP/Widgets/WBP_EndGame_Auto3.uasset'
+[2021.01.31-12.55.20:774][841]LogFileHelpers: Auto-saving content packages took 0.029
+[2021.01.31-12.57.29:550][592]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-12.57.47:399][981]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-12.59.25:665][765]BlueprintLog: New page: Compile WBP_EndGame
+[2021.01.31-12.59.25:730][765]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2021.01.31-12.59.26:070][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_EndGame" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset" SILENT=true
+[2021.01.31-12.59.26:112][770]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_EndGame8E519C8A47705072C2D601B9115E1764.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset'
+[2021.01.31-12.59.26:129][770]AssetCheck: New page: Asset Save: WBP_EndGame
+[2021.01.31-12.59.26:129][770]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_EndGame.WBP_EndGame
+[2021.01.31-13.01.29:666][454]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-13.01.37:726][625]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-13.01.39:506][662]BlueprintLog: New page: Compile WBP_EndGame
+[2021.01.31-13.01.39:574][662]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2021.01.31-13.01.40:019][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_EndGame" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset" SILENT=true
+[2021.01.31-13.01.40:054][669]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_EndGame2CD66A1540024A3D0D58F5BF4D1580CF.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset'
+[2021.01.31-13.01.40:068][669]AssetCheck: New page: Asset Save: WBP_EndGame
+[2021.01.31-13.01.40:068][669]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_EndGame.WBP_EndGame
+[2021.01.31-13.02.15:352][459]BlueprintLog: New page: Compile WBP_EndGame
+[2021.01.31-13.02.15:422][459]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2021.01.31-13.02.15:871][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_EndGame" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset" SILENT=true
+[2021.01.31-13.02.15:906][466]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_EndGame86FB8F6E4C62FB6D772E2A9EC32C3268.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset'
+[2021.01.31-13.02.15:921][466]AssetCheck: New page: Asset Save: WBP_EndGame
+[2021.01.31-13.02.15:921][466]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_EndGame.WBP_EndGame
+[2021.01.31-13.02.51:563][246]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-13.02.53:050][275]BlueprintLog: New page: Compile WBP_EndGame
+[2021.01.31-13.02.53:119][275]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2021.01.31-13.02.53:539][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_EndGame" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset" SILENT=true
+[2021.01.31-13.02.53:594][281]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_EndGameFFA801FA4E27E69C9B5FF389B228C76E.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset'
+[2021.01.31-13.02.53:609][281]AssetCheck: New page: Asset Save: WBP_EndGame
+[2021.01.31-13.02.53:609][281]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_EndGame.WBP_EndGame
+[2021.01.31-13.02.59:159][403]BlueprintLog: New page: Compile WBP_EndGame
+[2021.01.31-13.02.59:280][403]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2021.01.31-13.02.59:826][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_EndGame" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset" SILENT=true
+[2021.01.31-13.02.59:861][414]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_EndGame3882C21945EFF48D3263128E53B1EF9C.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset'
+[2021.01.31-13.02.59:874][414]AssetCheck: New page: Asset Save: WBP_EndGame
+[2021.01.31-13.02.59:874][414]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_EndGame.WBP_EndGame
+[2021.01.31-13.03.20:565][870]BlueprintLog: New page: Compile WBP_EndGame
+[2021.01.31-13.03.20:633][870]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2021.01.31-13.03.21:022][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_EndGame" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset" SILENT=true
+[2021.01.31-13.03.21:061][875]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_EndGame5EF7B9DB42202B80EA41A68901A151D6.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset'
+[2021.01.31-13.03.21:074][875]AssetCheck: New page: Asset Save: WBP_EndGame
+[2021.01.31-13.03.21:074][875]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_EndGame.WBP_EndGame
+[2021.01.31-13.03.56:921][687]BlueprintLog: New page: Compile WBP_EndGame
+[2021.01.31-13.03.57:047][687]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2021.01.31-13.03.57:590][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_EndGame" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset" SILENT=true
+[2021.01.31-13.03.57:638][698]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_EndGame5D5C46A447DC1DBD109375A153380C6F.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset'
+[2021.01.31-13.03.57:660][698]AssetCheck: New page: Asset Save: WBP_EndGame
+[2021.01.31-13.03.57:661][698]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_EndGame.WBP_EndGame
+[2021.01.31-13.04.16:098][935]BlueprintLog: New page: Compile WBP_EndGame
+[2021.01.31-13.04.16:222][935]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2021.01.31-13.04.16:863][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_EndGame" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset" SILENT=true
+[2021.01.31-13.04.16:919][948]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_EndGame9FDF59444A518FEFA0D77BA80C883093.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset'
+[2021.01.31-13.04.16:933][948]AssetCheck: New page: Asset Save: WBP_EndGame
+[2021.01.31-13.04.16:933][948]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_EndGame.WBP_EndGame
+[2021.01.31-13.05.04:080][632]BlueprintLog: New page: Compile WBP_EndGame
+[2021.01.31-13.05.04:148][632]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2021.01.31-13.05.04:537][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_EndGame" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset" SILENT=true
+[2021.01.31-13.05.04:581][638]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_EndGame19DFD6DE432E173AB4020186A32F84C6.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset'
+[2021.01.31-13.05.04:593][638]AssetCheck: New page: Asset Save: WBP_EndGame
+[2021.01.31-13.05.04:593][638]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_EndGame.WBP_EndGame
+[2021.01.31-13.05.30:122][219]BlueprintLog: New page: Compile WBP_EndGame
+[2021.01.31-13.05.30:252][219]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2021.01.31-13.05.30:545][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_EndGame" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset" SILENT=true
+[2021.01.31-13.05.30:583][224]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_EndGame2A2F8EEC42328569B97524BD642AFEF7.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset'
+[2021.01.31-13.05.30:598][224]AssetCheck: New page: Asset Save: WBP_EndGame
+[2021.01.31-13.05.30:598][224]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_EndGame.WBP_EndGame
+[2021.01.31-13.05.41:159][497]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-13.05.41:212][497]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-13.05.41:212][497]PIE: New page: PIE session: Menu (Jan 31, 2021, 1:05:41 PM)
+[2021.01.31-13.05.41:213][497]LogPlayLevel: Creating play world package: /Game/MY_BP/UEDPIE_0_Menu
+[2021.01.31-13.05.41:216][497]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003119s)
+[2021.01.31-13.05.41:218][497]LogAIModule: Creating AISystem for world Menu
+[2021.01.31-13.05.41:218][497]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000234CAEFBA00), frame # 78497
+[2021.01.31-13.05.41:218][497]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000234C6B574C0), frame # 78497
+[2021.01.31-13.05.41:219][497]LogPlayLevel: PIE: World Init took: (0.002519s)
+[2021.01.31-13.05.41:219][497]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MY_BP/Menu.Menu to /Game/MY_BP/UEDPIE_0_Menu.Menu (0.005945s)
+[2021.01.31-13.05.41:266][497]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.01.31-13.05.41:268][497]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-13.05.41:268][497]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-13.05.41:268][497]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-13.05.41:268][497]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-13.05.41:268][497]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-13.05.41:268][497]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-13.05.41:268][497]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-13.05.41:268][497]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-13.05.41:268][497]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-13.05.41:268][497]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-13.05.41:272][497]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-13.05.41:272][497]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-13.05.41:285][497]LogAudioMixer: Display: Using Audio Device Headphones (Synaptics HD Audio)
+[2021.01.31-13.05.41:285][497]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-13.05.41:285][497]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-13.05.41:285][497]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-13.05.41:286][497]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-13.05.41:298][497]LogInit: FAudioDevice initialized.
+[2021.01.31-13.05.41:305][497]LogLoad: Game class is 'GM_Menu_C'
+[2021.01.31-13.05.41:305][497]LogWorld: Bringing World /Game/MY_BP/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2021.01.31-13.05.41
+[2021.01.31-13.05.41:305][497]LogWorld: Bringing up level for play took: 0.000267
+[2021.01.31-13.05.41:306][497]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.01.31-13.05.41:309][497]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.01.31-13.05.41:309][497]PIE: Server logged in
+[2021.01.31-13.05.41:310][497]PIE: Play in editor total start time 0.1 seconds.
+[2021.01.31-13.05.43:665][631]LogNet: Browse: /Game/MY_BP/MY_Map
+[2021.01.31-13.05.43:665][631]LogLoad: LoadMap: /Game/MY_BP/MY_Map
+[2021.01.31-13.05.43:665][631]LogWorld: BeginTearingDown for /Game/MY_BP/UEDPIE_0_Menu
+[2021.01.31-13.05.43:665][631]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-13.05.43:666][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-13.05.43:725][631]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000234C6B574C0), frame # 78631
+[2021.01.31-13.05.43:725][631]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000234CAEFBA00), frame # 78631
+[2021.01.31-13.05.43:729][631]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.01.31-13.05.43:735][631]LogAIModule: Creating AISystem for world MY_Map
+[2021.01.31-13.05.43:735][631]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000234CA467E00), frame # 78631
+[2021.01.31-13.05.43:735][631]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000234C80AFD80), frame # 78631
+[2021.01.31-13.05.43:735][631]LogLoad: Game class is 'MY_GM_C'
+[2021.01.31-13.05.43:776][631]LogWorld: Bringing World /Game/MY_BP/UEDPIE_0_MY_Map.MY_Map up for play (max tick rate 0) at 2021.01.31-13.05.43
+[2021.01.31-13.05.43:776][631]LogWorld: Bringing up level for play took: 0.040131
+[2021.01.31-13.05.43:816][631]PIE: Warning: The widget 'HUD_C' was already added to the screen.
+[2021.01.31-13.05.43:816][631]LogLoad: Took 0.151947 seconds to LoadMap(/Game/MY_BP/MY_Map)
+[2021.01.31-13.05.45:414][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-13.05.45:414][694]LogWorld: BeginTearingDown for /Game/MY_BP/UEDPIE_0_MY_Map
+[2021.01.31-13.05.45:415][694]LogWorld: UWorld::CleanupWorld for MY_Map, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-13.05.45:440][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-13.05.45:449][694]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-13.05.45:457][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-13.05.45:533][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-13.05.45:534][694]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000234C80AFD80), frame # 78694
+[2021.01.31-13.05.45:535][694]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000234CA467E00), frame # 78694
+[2021.01.31-13.05.45:540][694]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2021.01.31-13.05.45:677][695]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.01.31-13.05.48:585][773]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-13.05.48:649][773]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-13.06.26:383][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Menu" FILE="D:/GameProjects/LostBat/Content/MY_BP/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.31-13.06.26:426][800]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.01.31-13.06.26:455][800]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/MenuE33C0EDE48193D19C4856AB998993F4F.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Menu.umap'
+[2021.01.31-13.06.26:498][800]AssetCheck: New page: Asset Save: Menu
+[2021.01.31-13.06.26:498][800]LogContentValidation: Display: Validating World /Game/MY_BP/Menu.Menu
+[2021.01.31-13.06.26:776][807]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.01.31-13.11.55:524][337]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GameProjects\GGJ21\SplashScreens\You found Kiki_no text.png)
+[2021.01.31-13.11.55:625][337]LogTexture: Display: Building textures: You_found_Kiki_no_text (AutoDXT, 2560X1440)
+[2021.01.31-13.11.58:158][337]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GameProjects\GGJ21\SplashScreens\You found mama_no text.png)
+[2021.01.31-13.11.58:223][337]LogTexture: Display: Building textures: You_found_mama_no_text (AutoDXT, 2560X1440)
+[2021.01.31-13.12.00:693][337]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GameProjects\GGJ21\SplashScreens\you found papa no text.png)
+[2021.01.31-13.12.00:758][337]LogTexture: Display: Building textures: you_found_papa_no_text (AutoDXT, 2560X1440)
+[2021.01.31-13.12.03:362][337]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GameProjects\GGJ21\SplashScreens\bebe is lost no text.png)
+[2021.01.31-13.12.03:427][337]LogTexture: Display: Building textures: bebe_is_lost_no_text (AutoDXT, 2560X1440)
+[2021.01.31-13.12.05:934][337]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GameProjects\GGJ21\SplashScreens\bebe_with_text.jpg)
+[2021.01.31-13.12.19:150][337]LogSlate: Window 'Message' being destroyed
+[2021.01.31-13.12.19:157][337]Message dialog closed, result: Yes, title: Message, text: Attempting to import 10,667 x 6,000 texture, proceed?
+Largest supported texture size: 8,192 x 8,192
+[2021.01.31-13.12.20:053][337]LogTexture: Display: Building textures: bebe_with_text (BGRA8, 10667X6000)
+[2021.01.31-13.12.23:703][337]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.01.31-13.12.23:709][337]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.01.31-13.12.23:710][337]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.01.31-13.12.24:763][337]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GameProjects\GGJ21\SplashScreens\fangheart reunion no text.png)
+[2021.01.31-13.12.24:842][337]LogTexture: Display: Building textures: fangheart_reunion_no_text (AutoDXT, 2560X1440)
+[2021.01.31-13.12.27:325][337]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\GameProjects\GGJ21\SplashScreens\you found gramps no text.png)
+[2021.01.31-13.12.27:389][337]LogTexture: Display: Building textures: you_found_gramps_no_text (AutoDXT, 2560X1440)
+[2021.01.31-13.12.35:864][482]LogTexture: Display: Building textures: bebe_is_lost_no_text (BGRA8, 2560X1440)
+[2021.01.31-13.12.36:348][482]LogTexture: Display: Building textures: fangheart_reunion_no_text (BGRA8, 2560X1440)
+[2021.01.31-13.12.36:475][482]LogTexture: Display: Building textures: you_found_gramps_no_text (BGRA8, 2560X1440)
+[2021.01.31-13.12.36:624][482]LogTexture: Display: Building textures: You_found_Kiki_no_text (BGRA8, 2560X1440)
+[2021.01.31-13.12.36:773][482]LogTexture: Display: Building textures: You_found_mama_no_text (BGRA8, 2560X1440)
+[2021.01.31-13.12.36:879][482]LogTexture: Display: Building textures: you_found_papa_no_text (BGRA8, 2560X1440)
+[2021.01.31-13.12.38:053][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/SplashScreens/bebe_is_lost_no_text" FILE="D:/GameProjects/LostBat/Content/MY_Assets/SplashScreens/bebe_is_lost_no_text.uasset" SILENT=true
+[2021.01.31-13.12.38:237][510]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/bebe_is_lost_no_textEA1673F44B3898A3CD7412A3456D2411.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/SplashScreens/bebe_is_lost_no_text.uasset'
+[2021.01.31-13.12.38:245][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/SplashScreens/bebe_with_text" FILE="D:/GameProjects/LostBat/Content/MY_Assets/SplashScreens/bebe_with_text.uasset" SILENT=true
+[2021.01.31-13.12.39:602][510]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/bebe_with_text9B05973F4228B826238B69BC0115FAF9.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/SplashScreens/bebe_with_text.uasset'
+[2021.01.31-13.12.39:609][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/SplashScreens/fangheart_reunion_no_text" FILE="D:/GameProjects/LostBat/Content/MY_Assets/SplashScreens/fangheart_reunion_no_text.uasset" SILENT=true
+[2021.01.31-13.12.39:757][510]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/fangheart_reunion_no_textA42330994098D47AE2F5BDACFF07A58D.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/SplashScreens/fangheart_reunion_no_text.uasset'
+[2021.01.31-13.12.39:764][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/SplashScreens/you_found_gramps_no_text" FILE="D:/GameProjects/LostBat/Content/MY_Assets/SplashScreens/you_found_gramps_no_text.uasset" SILENT=true
+[2021.01.31-13.12.39:935][510]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/you_found_gramps_no_textF3171CBB47D7B2C0DE37E8A735617B5F.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/SplashScreens/you_found_gramps_no_text.uasset'
+[2021.01.31-13.12.39:941][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/SplashScreens/You_found_Kiki_no_text" FILE="D:/GameProjects/LostBat/Content/MY_Assets/SplashScreens/You_found_Kiki_no_text.uasset" SILENT=true
+[2021.01.31-13.12.40:131][510]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/You_found_Kiki_no_text00E83E2A471814F33EA4F4B64BFCBAED.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/SplashScreens/You_found_Kiki_no_text.uasset'
+[2021.01.31-13.12.40:137][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/SplashScreens/You_found_mama_no_text" FILE="D:/GameProjects/LostBat/Content/MY_Assets/SplashScreens/You_found_mama_no_text.uasset" SILENT=true
+[2021.01.31-13.12.40:285][510]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/You_found_mama_no_textE8C44F0E4B1418CCB01C749FB910254F.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/SplashScreens/You_found_mama_no_text.uasset'
+[2021.01.31-13.12.40:291][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_Assets/SplashScreens/you_found_papa_no_text" FILE="D:/GameProjects/LostBat/Content/MY_Assets/SplashScreens/you_found_papa_no_text.uasset" SILENT=true
+[2021.01.31-13.12.40:457][510]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/you_found_papa_no_text6E63E1C8456F4AB718DD7A93E1BCA03C.tmp' to 'D:/GameProjects/LostBat/Content/MY_Assets/SplashScreens/you_found_papa_no_text.uasset'
+[2021.01.31-13.12.40:511][510]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-13.12.40:512][510]LogContentValidation: Display: Validating Texture2D /Game/MY_Assets/SplashScreens/bebe_is_lost_no_text.bebe_is_lost_no_text
+[2021.01.31-13.12.40:512][510]LogContentValidation: Display: Validating Texture2D /Game/MY_Assets/SplashScreens/bebe_with_text.bebe_with_text
+[2021.01.31-13.12.40:512][510]LogContentValidation: Display: Validating Texture2D /Game/MY_Assets/SplashScreens/fangheart_reunion_no_text.fangheart_reunion_no_text
+[2021.01.31-13.12.40:512][510]LogContentValidation: Display: Validating Texture2D /Game/MY_Assets/SplashScreens/you_found_gramps_no_text.you_found_gramps_no_text
+[2021.01.31-13.12.40:512][510]LogContentValidation: Display: Validating Texture2D /Game/MY_Assets/SplashScreens/You_found_Kiki_no_text.You_found_Kiki_no_text
+[2021.01.31-13.12.40:512][510]LogContentValidation: Display: Validating Texture2D /Game/MY_Assets/SplashScreens/You_found_mama_no_text.You_found_mama_no_text
+[2021.01.31-13.12.40:512][510]LogContentValidation: Display: Validating Texture2D /Game/MY_Assets/SplashScreens/you_found_papa_no_text.you_found_papa_no_text
+[2021.01.31-13.13.50:254][ 61]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MY_BP/Widgets/WBP_SplashScreens.WBP_SplashScreens
+[2021.01.31-13.15.28:894][633]BlueprintLog: New page: Compile WBP_SplashScreens
+[2021.01.31-13.15.29:041][633]LogUObjectHash: Compacting FUObjectHashTables data took   8.61ms
+[2021.01.31-13.15.29:321][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_SplashScreens" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashScreens.uasset" SILENT=true
+[2021.01.31-13.15.29:349][636]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_SplashScreensF27CD86C40B16A8E37B6ECBBDEE7B59E.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashScreens.uasset'
+[2021.01.31-13.15.29:363][636]AssetCheck: New page: Asset Save: WBP_SplashScreens
+[2021.01.31-13.15.29:364][636]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_SplashScreens.WBP_SplashScreens
+[2021.01.31-13.16.04:404][362]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-13.16.12:965][532]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-13.16.26:159][791]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-13.16.44:188][192]BlueprintLog: New page: Compile WBP_SplashScreens
+[2021.01.31-13.16.44:248][192]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2021.01.31-13.16.44:589][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_SplashScreens" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashScreens.uasset" SILENT=true
+[2021.01.31-13.16.44:629][197]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_SplashScreensB8F55DA7452B706ABFD914A1CEBC3B91.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashScreens.uasset'
+[2021.01.31-13.16.44:650][197]AssetCheck: New page: Asset Save: WBP_SplashScreens
+[2021.01.31-13.16.44:650][197]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_SplashScreens.WBP_SplashScreens
+[2021.01.31-13.16.58:349][499]BlueprintLog: New page: Compile WBP_SplashScreens
+[2021.01.31-13.16.58:429][499]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2021.01.31-13.16.58:785][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_SplashScreens" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashScreens.uasset" SILENT=true
+[2021.01.31-13.16.58:803][505]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_SplashScreens9E26AB0D43F6CAACEAABC79752FF1329.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashScreens.uasset'
+[2021.01.31-13.16.58:818][505]AssetCheck: New page: Asset Save: WBP_SplashScreens
+[2021.01.31-13.16.58:818][505]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_SplashScreens.WBP_SplashScreens
+[2021.01.31-13.19.26:287][544]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-13.21.45:464][906]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-13.25.30:049][ 38]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-13.30.27:555][169]BlueprintLog: New page: Compile WBP_StarterScreen
+[2021.01.31-13.30.27:645][169]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2021.01.31-13.30.28:151][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_StarterScreen" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_StarterScreen.uasset" SILENT=true
+[2021.01.31-13.30.28:202][182]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_StarterScreen1E1F26AF47DED1CF332B4585143C6984.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_StarterScreen.uasset'
+[2021.01.31-13.30.28:215][182]AssetCheck: New page: Asset Save: WBP_StarterScreen
+[2021.01.31-13.30.28:215][182]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_StarterScreen.WBP_StarterScreen
+[2021.01.31-13.31.18:607][693]BlueprintLog: New page: Compile WBP_SplashScreens
+[2021.01.31-13.31.18:685][693]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.01.31-13.31.19:183][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_SplashScreens" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashScreens.uasset" SILENT=true
+[2021.01.31-13.31.19:213][704]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_SplashScreens20EC01CB4B0EB6C3A58F1E9829EADDB0.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashScreens.uasset'
+[2021.01.31-13.31.19:224][704]AssetCheck: New page: Asset Save: WBP_SplashScreens
+[2021.01.31-13.31.19:224][704]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_SplashScreens.WBP_SplashScreens
+[2021.01.31-13.31.39:758][272]BlueprintLog: New page: Compile WBP_SplashScreens
+[2021.01.31-13.31.39:836][272]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2021.01.31-13.31.40:351][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_SplashScreens" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashScreens.uasset" SILENT=true
+[2021.01.31-13.31.40:369][284]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_SplashScreens5891DCB4450BA5BCCCA84D85AEB0049A.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashScreens.uasset'
+[2021.01.31-13.31.40:386][284]AssetCheck: New page: Asset Save: WBP_SplashScreens
+[2021.01.31-13.31.40:386][284]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_SplashScreens.WBP_SplashScreens
+[2021.01.31-13.36.29:311][745]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-13.36.29:313][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-13.36.29:365][745]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-13.36.29:365][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-13.36.36:999][993]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2021.01.31-13.36.39:837][993]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.31-13.36.39:842][993]LogEditorTransaction: Non zero active count in UTransBuffer::Reset
+ActiveCount : 2
+SessionName : 
+Reason      : Delete Selected Item
+
+Purging the undo buffer...
+
+[2021.01.31-13.36.41:034][993]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/MY_BP/Widgets/WBP_SplashScreens.WBP_SplashScreens
+[2021.01.31-13.36.45:682][993]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2021.01.31-13.36.45:758][993]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.01.31-13.36.45:794][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.01.31-13.37.10:733][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.01.31-13.37.10:734][ 68]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MY_BP/Menu' took 0.039
+[2021.01.31-13.37.10:735][ 68]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MY_BP/Widgets/WBP_StarterScreen] ([1] browsable assets)...
+[2021.01.31-13.37.10:735][ 68]OBJ SavePackage: Finished generating thumbnails for package [/Game/MY_BP/Widgets/WBP_StarterScreen]
+[2021.01.31-13.37.10:735][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_StarterScreen" FILE="D:/GameProjects/LostBat/Saved/Autosaves/Game/MY_BP/Widgets/WBP_StarterScreen_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2021.01.31-13.37.10:775][ 68]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_StarterScreen_Auto40C6B70A14AEB5D22A2D41086BDC2523A.tmp' to 'D:/GameProjects/LostBat/Saved/Autosaves/Game/MY_BP/Widgets/WBP_StarterScreen_Auto4.uasset'
+[2021.01.31-13.37.10:776][ 68]LogFileHelpers: Auto-saving content packages took 0.042
+[2021.01.31-13.37.45:476][419]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.01.31-13.37.46:918][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_Splash" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_Splash.uasset" SILENT=true
+[2021.01.31-13.37.46:950][459]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_SplashB9E2C1FC4C48961185583FB3E4473D1B.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_Splash.uasset'
+[2021.01.31-13.37.46:965][459]AssetCheck: New page: Asset Save: WBP_Splash
+[2021.01.31-13.37.46:965][459]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_Splash.WBP_Splash
+[2021.01.31-13.37.47:436][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_StarterScreen" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_StarterScreen.uasset" SILENT=true
+[2021.01.31-13.37.47:508][472]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_StarterScreenAFBBC22240A168F0D6FEB7BEFAEDF2DF.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_StarterScreen.uasset'
+[2021.01.31-13.37.47:530][472]AssetCheck: New page: Asset Save: WBP_StarterScreen
+[2021.01.31-13.37.47:530][472]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_StarterScreen.WBP_StarterScreen
+[2021.01.31-13.37.48:219][491]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MY_BP/Widgets/WBP_Splash.WBP_Splash
+[2021.01.31-13.39.13:192][316]BlueprintLog: New page: Compile WBP_Splash
+[2021.01.31-13.39.13:204][316]LogBlueprint: Warning: [Compiler WBP_Splash] Could not find a variable named "Overlay_46" in 'WBP_Splash_C'.
+Make sure 'WBP_Splash_C' has been compiled for  Get Overlay_46
+[2021.01.31-13.39.13:206][316]LogBlueprint: Error: [Compiler WBP_Splash] The property associated with  Overlay 46  could not be found in '/Game/MY_BP/Widgets/WBP_Splash.WBP_Splash_C'
+[2021.01.31-13.39.13:285][316]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2021.01.31-13.39.13:588][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_Splash" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_Splash.uasset" SILENT=true
+[2021.01.31-13.39.13:626][320]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_Splash4A7C80EA46CF7EDDA47331B1F3091786.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_Splash.uasset'
+[2021.01.31-13.39.13:639][320]AssetCheck: New page: Asset Save: WBP_Splash
+[2021.01.31-13.39.13:639][320]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_Splash.WBP_Splash
+[2021.01.31-13.39.23:244][527]LogEditorTransaction: Undo Delete current selection
+[2021.01.31-13.39.39:942][885]BlueprintLog: New page: Compile WBP_Splash
+[2021.01.31-13.39.39:947][885]LogBlueprint: Warning: [Compiler WBP_Splash] Could not find a variable named "EnlargeLetsGo" in 'WBP_Splash_C'.
+Make sure 'WBP_Splash_C' has been compiled for  Get EnlargeLetsGo
+[2021.01.31-13.39.39:948][885]LogBlueprint: Warning: [Compiler WBP_Splash] Could not find a variable named "EnlargeLetsGo" in 'WBP_Splash_C'.
+Make sure 'WBP_Splash_C' has been compiled for  Get EnlargeLetsGo
+[2021.01.31-13.39.39:948][885]LogBlueprint: Warning: [Compiler WBP_Splash] Could not find a variable named "EnlargeQuit" in 'WBP_Splash_C'.
+Make sure 'WBP_Splash_C' has been compiled for  Get EnlargeQuit
+[2021.01.31-13.39.39:948][885]LogBlueprint: Warning: [Compiler WBP_Splash] Could not find a variable named "EnlargeQuit" in 'WBP_Splash_C'.
+Make sure 'WBP_Splash_C' has been compiled for  Get EnlargeQuit
+[2021.01.31-13.39.39:948][885]LogBlueprint: Warning: [Compiler WBP_Splash] Could not find a variable named "EnlargePlay" in 'WBP_Splash_C'.
+Make sure 'WBP_Splash_C' has been compiled for  Get EnlargePlay
+[2021.01.31-13.39.39:948][885]LogBlueprint: Warning: [Compiler WBP_Splash] Could not find a variable named "EnlargePlay" in 'WBP_Splash_C'.
+Make sure 'WBP_Splash_C' has been compiled for  Get EnlargePlay
+[2021.01.31-13.39.39:949][885]LogBlueprint: Error: [Compiler WBP_Splash] The property associated with  Enlarge Lets Go  could not be found in '/Game/MY_BP/Widgets/WBP_Splash.WBP_Splash_C'
+[2021.01.31-13.39.39:949][885]LogBlueprint: Error: [Compiler WBP_Splash] The property associated with  Enlarge Play  could not be found in '/Game/MY_BP/Widgets/WBP_Splash.WBP_Splash_C'
+[2021.01.31-13.39.39:949][885]LogBlueprint: Error: [Compiler WBP_Splash] The property associated with  Enlarge Play  could not be found in '/Game/MY_BP/Widgets/WBP_Splash.WBP_Splash_C'
+[2021.01.31-13.39.39:949][885]LogBlueprint: Error: [Compiler WBP_Splash] The property associated with  Enlarge Quit  could not be found in '/Game/MY_BP/Widgets/WBP_Splash.WBP_Splash_C'
+[2021.01.31-13.39.39:949][885]LogBlueprint: Error: [Compiler WBP_Splash] The property associated with  Enlarge Quit  could not be found in '/Game/MY_BP/Widgets/WBP_Splash.WBP_Splash_C'
+[2021.01.31-13.39.39:950][885]LogBlueprint: Error: [Compiler WBP_Splash] The property associated with  Enlarge Lets Go  could not be found in '/Game/MY_BP/Widgets/WBP_Splash.WBP_Splash_C'
+[2021.01.31-13.39.40:011][885]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2021.01.31-13.39.49:374][ 96]BlueprintLog: New page: Compile WBP_Splash
+[2021.01.31-13.39.49:492][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2021.01.31-13.39.50:006][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_Splash" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_Splash.uasset" SILENT=true
+[2021.01.31-13.39.50:036][106]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_SplashEEA489824C892143EED0C3BA3498F1ED.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_Splash.uasset'
+[2021.01.31-13.39.50:051][106]AssetCheck: New page: Asset Save: WBP_Splash
+[2021.01.31-13.39.50:051][106]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_Splash.WBP_Splash
+[2021.01.31-13.40.55:003][583]BlueprintLog: New page: Compile WBP_Splash
+[2021.01.31-13.40.55:096][583]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.01.31-13.40.55:405][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_Splash" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_Splash.uasset" SILENT=true
+[2021.01.31-13.40.55:427][587]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_SplashE641652040082253D67123A66DEA5F1F.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_Splash.uasset'
+[2021.01.31-13.40.55:439][587]AssetCheck: New page: Asset Save: WBP_Splash
+[2021.01.31-13.40.55:439][587]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_Splash.WBP_Splash
+[2021.01.31-13.41.39:473][691]BlueprintLog: New page: Compile WBP_Splash
+[2021.01.31-13.41.39:572][691]LogUObjectHash: Compacting FUObjectHashTables data took   8.50ms
+[2021.01.31-13.41.39:868][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_Splash" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_Splash.uasset" SILENT=true
+[2021.01.31-13.41.39:899][694]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_Splash23306B18422581152198D0A9AA93887D.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_Splash.uasset'
+[2021.01.31-13.41.39:915][694]AssetCheck: New page: Asset Save: WBP_Splash
+[2021.01.31-13.41.39:915][694]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_Splash.WBP_Splash
+[2021.01.31-13.43.11:863][543]BlueprintLog: New page: Compile BP_BatRelative
+[2021.01.31-13.43.11:994][543]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2021.01.31-13.43.12:590][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/BP_BatRelative" FILE="D:/GameProjects/LostBat/Content/MY_BP/BP_BatRelative.uasset" SILENT=true
+[2021.01.31-13.43.12:622][555]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/BP_BatRelativeE38F1E3241B488BD308A2E972E48C570.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/BP_BatRelative.uasset'
+[2021.01.31-13.43.12:635][555]AssetCheck: New page: Asset Save: BP_BatRelative
+[2021.01.31-13.43.12:635][555]LogContentValidation: Display: Validating Blueprint /Game/MY_BP/BP_BatRelative.BP_BatRelative
+[2021.01.31-13.43.16:486][640]BlueprintLog: New page: Compile BP_BatRelative
+[2021.01.31-13.43.16:512][640]LogClass: Warning: Type mismatch in Index of BP_BatRelative_C - Previous (StrProperty) Current(IntProperty) for package:  FObjectReader
+[2021.01.31-13.43.16:588][640]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2021.01.31-13.43.17:106][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/BP_BatRelative" FILE="D:/GameProjects/LostBat/Content/MY_BP/BP_BatRelative.uasset" SILENT=true
+[2021.01.31-13.43.17:128][650]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/BP_BatRelativeCD49149F49C9D9EE152CECBBF4A03ED5.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/BP_BatRelative.uasset'
+[2021.01.31-13.43.17:139][650]AssetCheck: New page: Asset Save: BP_BatRelative
+[2021.01.31-13.43.17:139][650]LogContentValidation: Display: Validating Blueprint /Game/MY_BP/BP_BatRelative.BP_BatRelative
+[2021.01.31-13.43.22:749][797]LogClass: Warning: Type mismatch in Index of BP_BatRelative_C - Previous (StrProperty) Current(IntProperty) for package:  D:/GameProjects/LostBat/Content/MY_BP/MY_Map.umap
+[2021.01.31-13.43.22:749][797]LogClass: Warning: Type mismatch in Index of BP_BatRelative_C - Previous (StrProperty) Current(IntProperty) for package:  D:/GameProjects/LostBat/Content/MY_BP/MY_Map.umap
+[2021.01.31-13.43.22:749][797]LogClass: Warning: Type mismatch in Index of BP_BatRelative_C - Previous (StrProperty) Current(IntProperty) for package:  D:/GameProjects/LostBat/Content/MY_BP/MY_Map.umap
+[2021.01.31-13.43.22:749][797]LogClass: Warning: Type mismatch in Index of BP_BatRelative_C - Previous (StrProperty) Current(IntProperty) for package:  D:/GameProjects/LostBat/Content/MY_BP/MY_Map.umap
+[2021.01.31-13.43.22:778][797]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MY_BP/MY_Map.MY_Map
+[2021.01.31-13.43.22:824][797]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.01.31-13.43.22:828][797]Cmd: MAP LOAD FILE="D:/GameProjects/LostBat/Content/MY_BP/MY_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.31-13.43.22:828][797]LightingResults: New page: Lighting Build
+[2021.01.31-13.43.22:831][797]LoadErrors: New page: Loading map: MY_Map.umap
+[2021.01.31-13.43.22:833][797]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-13.43.22:836][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-13.43.22:836][797]MapCheck: New page: Map Check
+[2021.01.31-13.43.22:836][797]LightingResults: New page: Lighting Build
+[2021.01.31-13.43.22:877][797]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023494B9D6C0), frame # 120797
+[2021.01.31-13.43.22:877][797]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000234B6254400), frame # 120797
+[2021.01.31-13.43.22:881][797]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.01.31-13.43.23:116][797]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.31-13.43.23:116][797]LogAIModule: Creating AISystem for world MY_Map
+[2021.01.31-13.43.23:117][797]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000234EAD19200), frame # 120797
+[2021.01.31-13.43.23:119][797]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000234BF87BB00), frame # 120797
+[2021.01.31-13.43.23:176][797]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.01.31-13.43.23:206][797]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.31-13.43.23:207][797]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.275ms to complete.
+[2021.01.31-13.43.23:207][797]LogFileHelpers: Loading map 'MY_Map' took 0.380
+[2021.01.31-13.43.27:925][932]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Caves)
+[2021.01.31-13.43.29:993][969]LogEditorViewport: Clicking on Actor (LMB): BP_BatRelative_C (BP_BatRelative)
+[2021.01.31-13.43.56:817][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/MY_Map" FILE="D:/GameProjects/LostBat/Content/MY_BP/MY_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.31-13.43.56:883][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.01.31-13.43.56:944][656]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/MY_MapE61DA71C4F559345425F2C993D2CF1FD.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/MY_Map.umap'
+[2021.01.31-13.43.56:974][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/MY_Map_BuiltData" FILE="D:/GameProjects/LostBat/Content/MY_BP/MY_Map_BuiltData.uasset" SILENT=true
+[2021.01.31-13.43.56:990][656]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/MY_Map_BuiltData579BF32B4F3B09241217D99782C5BB8B.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/MY_Map_BuiltData.uasset'
+[2021.01.31-13.43.57:008][656]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-13.43.57:008][656]LogContentValidation: Display: Validating World /Game/MY_BP/MY_Map.MY_Map
+[2021.01.31-13.43.57:008][656]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MY_BP/MY_Map_BuiltData.MY_Map_BuiltData
+[2021.01.31-13.44.20:132][132]BlueprintLog: New page: Compile WBP_Splash
+[2021.01.31-13.44.20:221][132]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2021.01.31-13.44.20:873][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_Splash" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_Splash.uasset" SILENT=true
+[2021.01.31-13.44.20:918][144]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_Splash43562EC44B20E1A9EB851191A8F0827B.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_Splash.uasset'
+[2021.01.31-13.44.20:937][144]AssetCheck: New page: Asset Save: WBP_Splash
+[2021.01.31-13.44.20:937][144]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_Splash.WBP_Splash
+[2021.01.31-13.45.03:007][ 17]BlueprintLog: New page: Compile WBP_Splash
+[2021.01.31-13.45.03:124][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2021.01.31-13.45.03:621][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_Splash" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_Splash.uasset" SILENT=true
+[2021.01.31-13.45.03:651][ 26]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_SplashC13FADD04C288D81096DCFB10FF2D9DB.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_Splash.uasset'
+[2021.01.31-13.45.03:665][ 26]AssetCheck: New page: Asset Save: WBP_Splash
+[2021.01.31-13.45.03:665][ 26]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_Splash.WBP_Splash
+[2021.01.31-13.45.20:777][377]BlueprintLog: New page: Compile WBP_Splash
+[2021.01.31-13.45.20:871][377]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2021.01.31-13.45.21:284][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_Splash" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_Splash.uasset" SILENT=true
+[2021.01.31-13.45.21:305][384]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_Splash2D19739A4896444633A26D9AE3648735.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_Splash.uasset'
+[2021.01.31-13.45.21:318][384]AssetCheck: New page: Asset Save: WBP_Splash
+[2021.01.31-13.45.21:318][384]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_Splash.WBP_Splash
+[2021.01.31-13.46.20:050][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2021.01.31-13.46.20:121][ 11]LogMetaData: Removing '/Game/MY_BP/Widgets/WBP_SplashMama.SKEL_WBP_SplashMama_C' ref from Metadata '/Game/MY_BP/Widgets/WBP_Splash.PackageMetaData'
+[2021.01.31-13.46.20:121][ 11]LogMetaData: Removing '/Game/MY_BP/Widgets/WBP_SplashMama.WBP_SplashMama_C' ref from Metadata '/Game/MY_BP/Widgets/WBP_Splash.PackageMetaData'
+[2021.01.31-13.46.20:121][ 11]LogMetaData: Removing '/Game/MY_BP/Widgets/WBP_SplashMama.WBP_SplashMama:Main.K2Node_FunctionResult_0' ref from Metadata '/Game/MY_BP/Widgets/WBP_Splash.PackageMetaData'
+[2021.01.31-13.46.20:121][ 11]LogMetaData: Removing '/Game/MY_BP/Widgets/WBP_SplashMama.WBP_SplashMama:Main.K2Node_FunctionEntry_0' ref from Metadata '/Game/MY_BP/Widgets/WBP_Splash.PackageMetaData'
+[2021.01.31-13.46.20:121][ 11]LogMetaData: Removing '/Game/MY_BP/Widgets/WBP_SplashMama.WBP_SplashMama:Title.K2Node_FunctionResult_0' ref from Metadata '/Game/MY_BP/Widgets/WBP_Splash.PackageMetaData'
+[2021.01.31-13.46.20:121][ 11]LogMetaData: Removing '/Game/MY_BP/Widgets/WBP_SplashMama.WBP_SplashMama:Title.K2Node_FunctionEntry_0' ref from Metadata '/Game/MY_BP/Widgets/WBP_Splash.PackageMetaData'
+[2021.01.31-13.46.20:149][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_SplashMama" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashMama.uasset" SILENT=true
+[2021.01.31-13.46.20:167][ 11]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_SplashMamaDDFEBDA8410FCE048703CCB1BAE3C3FC.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashMama.uasset'
+[2021.01.31-13.46.20:577][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2021.01.31-13.46.20:633][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.01.31-13.46.20:671][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.01.31-13.46.20:712][ 11]AssetCheck: New page: Asset Save: WBP_SplashMama
+[2021.01.31-13.46.20:712][ 11]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_SplashMama.WBP_SplashMama
+[2021.01.31-13.47.18:556][964]BlueprintLog: New page: Compile WBP_SplashMama
+[2021.01.31-13.47.18:612][964]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2021.01.31-13.47.19:186][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_SplashMama" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashMama.uasset" SILENT=true
+[2021.01.31-13.47.19:223][978]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_SplashMamaCA80D7D346E60FD135021DA775947A99.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashMama.uasset'
+[2021.01.31-13.47.19:236][978]AssetCheck: New page: Asset Save: WBP_SplashMama
+[2021.01.31-13.47.19:236][978]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_SplashMama.WBP_SplashMama
+[2021.01.31-13.47.45:966][679]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-13.48.43:537][135]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-13.51.01:208][404]BlueprintLog: New page: Compile WBP_SplashMama
+[2021.01.31-13.51.01:270][404]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2021.01.31-13.51.01:686][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_SplashMama" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashMama.uasset" SILENT=true
+[2021.01.31-13.51.01:709][411]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_SplashMama7F8C80784EDB101EC225E281E6328285.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashMama.uasset'
+[2021.01.31-13.51.01:724][411]AssetCheck: New page: Asset Save: WBP_SplashMama
+[2021.01.31-13.51.01:724][411]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_SplashMama.WBP_SplashMama
+[2021.01.31-13.52.33:852][767]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-13.52.49:880][176]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-13.52.59:812][413]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-13.53.01:027][441]BlueprintLog: New page: Compile WBP_SplashMama
+[2021.01.31-13.53.01:086][441]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.01.31-13.53.01:515][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_SplashMama" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashMama.uasset" SILENT=true
+[2021.01.31-13.53.01:550][447]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_SplashMama0A54D40C4C6F2AA9273A50ABAC80D26B.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashMama.uasset'
+[2021.01.31-13.53.01:564][447]AssetCheck: New page: Asset Save: WBP_SplashMama
+[2021.01.31-13.53.01:564][447]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_SplashMama.WBP_SplashMama
+[2021.01.31-13.53.32:019][236]BlueprintLog: New page: Compile WBP_SplashMama
+[2021.01.31-13.53.32:077][236]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2021.01.31-13.53.32:449][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_SplashMama" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashMama.uasset" SILENT=true
+[2021.01.31-13.53.32:477][242]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_SplashMama8B0B78F14FFAFB3965613E800CA5E59A.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashMama.uasset'
+[2021.01.31-13.53.32:492][242]AssetCheck: New page: Asset Save: WBP_SplashMama
+[2021.01.31-13.53.32:492][242]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_SplashMama.WBP_SplashMama
+[2021.01.31-13.54.25:592][697]BlueprintLog: New page: Compile WBP_SplashMama
+[2021.01.31-13.54.25:648][697]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.01.31-13.54.25:949][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_SplashMama" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashMama.uasset" SILENT=true
+[2021.01.31-13.54.25:975][703]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_SplashMama7CAAC5334E07FBBF7A44BB9CFF56DFAB.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashMama.uasset'
+[2021.01.31-13.54.25:990][703]AssetCheck: New page: Asset Save: WBP_SplashMama
+[2021.01.31-13.54.25:990][703]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_SplashMama.WBP_SplashMama
+[2021.01.31-13.54.56:539][563]BlueprintLog: New page: Compile WBP_SplashMama
+[2021.01.31-13.54.56:593][563]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2021.01.31-13.54.57:032][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_SplashMama" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashMama.uasset" SILENT=true
+[2021.01.31-13.54.57:056][573]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_SplashMamaCDBF6CED471A1B813B13CF920633D863.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashMama.uasset'
+[2021.01.31-13.54.57:071][573]AssetCheck: New page: Asset Save: WBP_SplashMama
+[2021.01.31-13.54.57:071][573]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_SplashMama.WBP_SplashMama
+[2021.01.31-13.56.38:085][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_SplashMama" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashMama.uasset" SILENT=true
+[2021.01.31-13.56.38:124][172]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_SplashMamaD684683443BD69840729DABEE385121B.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashMama.uasset'
+[2021.01.31-13.56.38:140][172]AssetCheck: New page: Asset Save: WBP_SplashMama
+[2021.01.31-13.56.38:140][172]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_SplashMama.WBP_SplashMama
+[2021.01.31-13.57.27:974][519]BlueprintLog: New page: Compile WBP_SplashMama
+[2021.01.31-13.57.28:035][519]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2021.01.31-13.57.28:382][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_SplashMama" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashMama.uasset" SILENT=true
+[2021.01.31-13.57.28:411][526]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_SplashMama2826947E46043CCF50E4649A4E6F653F.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashMama.uasset'
+[2021.01.31-13.57.28:425][526]AssetCheck: New page: Asset Save: WBP_SplashMama
+[2021.01.31-13.57.28:425][526]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_SplashMama.WBP_SplashMama
+[2021.01.31-13.57.34:241][690]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-13.57.34:241][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-13.57.34:267][690]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-13.57.34:267][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-13.57.35:205][709]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-13.57.35:205][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-13.57.35:237][709]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-13.57.35:237][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-13.57.36:166][720]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-13.57.36:166][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-13.57.38:865][772]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.31-13.57.38:865][772]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-13.57.38:865][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-13.57.42:233][857]LogSlate: Window 'WBP_SplashMama' being destroyed
+[2021.01.31-13.57.42:247][857]LogSlate: Window 'WBP_SplashMama' being destroyed
+[2021.01.31-13.57.42:260][857]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-13.57.42:260][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-13.57.42:285][857]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-13.57.42:285][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-13.57.51:840][200]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2021.01.31-13.57.52:798][232]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MY_BP/Widgets/WBP_SplashPapa.WBP_SplashPapa
+[2021.01.31-13.59.34:400][522]BlueprintLog: New page: Compile WBP_SplashPapa
+[2021.01.31-13.59.34:568][522]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2021.01.31-13.59.34:965][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_SplashPapa" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashPapa.uasset" SILENT=true
+[2021.01.31-13.59.34:990][529]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_SplashPapa62F333DA478F43A4F1643E8DA2B846F8.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashPapa.uasset'
+[2021.01.31-13.59.35:004][529]AssetCheck: New page: Asset Save: WBP_SplashPapa
+[2021.01.31-13.59.35:004][529]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_SplashPapa.WBP_SplashPapa
+[2021.01.31-13.59.39:867][658]LogSlate: Window 'WBP_SplashPapa' being destroyed
+[2021.01.31-13.59.39:879][658]LogSlate: Window 'WBP_SplashPapa' being destroyed
+[2021.01.31-13.59.39:890][658]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-13.59.39:891][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-13.59.39:909][658]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-13.59.39:909][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-14.00.00:544][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.01.31-14.00.10:646][140]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MY_BP/Widgets/WBP_SplashKiki.WBP_SplashKiki
+[2021.01.31-14.01.17:837][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.01.31-14.01.17:840][942]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MY_BP/MY_Map' took 0.025
+[2021.01.31-14.01.17:841][942]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MY_BP/Widgets/WBP_SplashKiki] ([1] browsable assets)...
+[2021.01.31-14.01.17:841][942]OBJ SavePackage: Finished generating thumbnails for package [/Game/MY_BP/Widgets/WBP_SplashKiki]
+[2021.01.31-14.01.17:841][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_SplashKiki" FILE="D:/GameProjects/LostBat/Saved/Autosaves/Game/MY_BP/Widgets/WBP_SplashKiki_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2021.01.31-14.01.17:869][942]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_SplashKiki_Auto5C6BAC7934CFAC7C22627F2B30FA46D11.tmp' to 'D:/GameProjects/LostBat/Saved/Autosaves/Game/MY_BP/Widgets/WBP_SplashKiki_Auto5.uasset'
+[2021.01.31-14.01.17:869][942]LogFileHelpers: Auto-saving content packages took 0.029
+[2021.01.31-14.02.11:572][328]LogEditorTransaction: Undo Nudge Widget
+[2021.01.31-14.02.12:944][359]LogEditorTransaction: Undo Nudge Widget
+[2021.01.31-14.02.19:015][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_SplashKiki" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashKiki.uasset" SILENT=true
+[2021.01.31-14.02.19:050][515]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_SplashKiki557D6564428B26A57580819A35E311FE.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashKiki.uasset'
+[2021.01.31-14.02.19:062][515]AssetCheck: New page: Asset Save: WBP_SplashKiki
+[2021.01.31-14.02.19:063][515]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_SplashKiki.WBP_SplashKiki
+[2021.01.31-14.02.20:140][544]BlueprintLog: New page: Compile WBP_SplashKiki
+[2021.01.31-14.02.20:192][544]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.01.31-14.02.20:597][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_SplashKiki" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashKiki.uasset" SILENT=true
+[2021.01.31-14.02.20:630][552]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_SplashKikiACF6194E43B80A9E3FB802AEAFE07503.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashKiki.uasset'
+[2021.01.31-14.02.20:642][552]AssetCheck: New page: Asset Save: WBP_SplashKiki
+[2021.01.31-14.02.20:642][552]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_SplashKiki.WBP_SplashKiki
+[2021.01.31-14.02.22:595][604]LogSlate: Window 'WBP_SplashKiki' being destroyed
+[2021.01.31-14.02.22:607][604]LogSlate: Window 'WBP_SplashKiki' being destroyed
+[2021.01.31-14.02.22:611][604]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-14.02.22:612][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-14.02.22:635][604]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-14.02.22:635][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-14.02.40:164][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.01.31-14.02.41:580][  6]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MY_BP/Widgets/WBP_SplashGramps.WBP_SplashGramps
+[2021.01.31-14.03.58:767][680]BlueprintLog: New page: Compile WBP_SplashGramps
+[2021.01.31-14.03.58:823][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.01.31-14.03.59:432][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_SplashGramps" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashGramps.uasset" SILENT=true
+[2021.01.31-14.03.59:465][693]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_SplashGrampsD9A9CBBE466F3ABFB39EE98664E1ED19.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashGramps.uasset'
+[2021.01.31-14.03.59:476][693]AssetCheck: New page: Asset Save: WBP_SplashGramps
+[2021.01.31-14.03.59:476][693]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_SplashGramps.WBP_SplashGramps
+[2021.01.31-14.04.04:461][825]LogSlate: Window 'WBP_SplashGramps' being destroyed
+[2021.01.31-14.04.04:473][825]LogSlate: Window 'WBP_SplashGramps' being destroyed
+[2021.01.31-14.04.04:478][825]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-14.04.04:478][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-14.04.04:502][825]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-14.04.04:502][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-14.04.10:698][  4]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MY_BP/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2021.01.31-14.05.30:587][606]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2021.01.31-14.05.30:690][606]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.01.31-14.05.31:050][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/2DSideScrollerCharacter" FILE="D:/GameProjects/LostBat/Content/MY_BP/2DSideScrollerCharacter.uasset" SILENT=true
+[2021.01.31-14.05.31:109][611]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/2DSideScrollerCharacter3708DB234104E472BFB9F7917118F9B2.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/2DSideScrollerCharacter.uasset'
+[2021.01.31-14.05.31:122][611]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2021.01.31-14.05.31:122][611]LogContentValidation: Display: Validating Blueprint /Game/MY_BP/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2021.01.31-14.05.40:309][831]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MY_BP/BP_BatRelative.BP_BatRelative
+[2021.01.31-14.06.08:400][406]BlueprintLog: New page: Compile BP_BatRelative
+[2021.01.31-14.06.08:480][406]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.01.31-14.06.08:817][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/BP_BatRelative" FILE="D:/GameProjects/LostBat/Content/MY_BP/BP_BatRelative.uasset" SILENT=true
+[2021.01.31-14.06.08:846][412]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/BP_BatRelative500AE4BB45C7DA2DBBD3E486CA24D20B.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/BP_BatRelative.uasset'
+[2021.01.31-14.06.08:859][412]AssetCheck: New page: Asset Save: BP_BatRelative
+[2021.01.31-14.06.08:860][412]LogContentValidation: Display: Validating Blueprint /Game/MY_BP/BP_BatRelative.BP_BatRelative
+[2021.01.31-14.09.16:526][353]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2021.01.31-14.09.16:605][353]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.01.31-14.09.17:049][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/2DSideScrollerCharacter" FILE="D:/GameProjects/LostBat/Content/MY_BP/2DSideScrollerCharacter.uasset" SILENT=true
+[2021.01.31-14.09.17:098][360]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/2DSideScrollerCharacter18520A4C4401143B68F899B07FF33D49.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/2DSideScrollerCharacter.uasset'
+[2021.01.31-14.09.17:110][360]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2021.01.31-14.09.17:110][360]LogContentValidation: Display: Validating Blueprint /Game/MY_BP/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2021.01.31-14.12.25:181][212]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2021.01.31-14.12.25:261][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.01.31-14.12.25:635][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/2DSideScrollerCharacter" FILE="D:/GameProjects/LostBat/Content/MY_BP/2DSideScrollerCharacter.uasset" SILENT=true
+[2021.01.31-14.12.25:697][217]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/2DSideScrollerCharacter0A6501DE459E9EE696921AA4D5FCCA4F.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/2DSideScrollerCharacter.uasset'
+[2021.01.31-14.12.25:707][217]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2021.01.31-14.12.25:707][217]LogContentValidation: Display: Validating Blueprint /Game/MY_BP/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2021.01.31-14.12.33:886][411]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MY_BP/Widgets/WBP_EndGame.WBP_EndGame
+[2021.01.31-14.15.15:161][699]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-14.16.53:695][232]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-14.18.21:792][491]LogEditorTransaction: Undo Resize Widget
+[2021.01.31-14.19.02:127][515]BlueprintLog: New page: Compile WBP_EndGame
+[2021.01.31-14.19.02:209][515]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.01.31-14.19.02:547][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_EndGame" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset" SILENT=true
+[2021.01.31-14.19.02:603][521]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_EndGame1AA1A785415F0E9D39DB6BA8B6F47956.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset'
+[2021.01.31-14.19.02:617][521]AssetCheck: New page: Asset Save: WBP_EndGame
+[2021.01.31-14.19.02:617][521]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_EndGame.WBP_EndGame
+[2021.01.31-14.19.14:098][818]BlueprintLog: New page: Compile WBP_EndGame
+[2021.01.31-14.19.14:150][818]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.01.31-14.19.14:530][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_EndGame" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset" SILENT=true
+[2021.01.31-14.19.14:569][825]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_EndGame441614B843C9617CF210C0A5E53DE0D1.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset'
+[2021.01.31-14.19.14:581][825]AssetCheck: New page: Asset Save: WBP_EndGame
+[2021.01.31-14.19.14:581][825]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_EndGame.WBP_EndGame
+[2021.01.31-14.19.54:043][853]BlueprintLog: New page: Compile WBP_EndGame
+[2021.01.31-14.19.54:100][853]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.01.31-14.19.54:365][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_EndGame" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset" SILENT=true
+[2021.01.31-14.19.54:401][857]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_EndGame4AE1BCE946B03FF333A2AA8F327ECF21.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset'
+[2021.01.31-14.19.54:417][857]AssetCheck: New page: Asset Save: WBP_EndGame
+[2021.01.31-14.19.54:417][857]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_EndGame.WBP_EndGame
+[2021.01.31-14.20.34:024][531]BlueprintLog: New page: Compile WBP_EndGame
+[2021.01.31-14.20.34:083][531]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.01.31-14.20.34:431][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_EndGame" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset" SILENT=true
+[2021.01.31-14.20.34:472][537]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_EndGame716B17044C50A1A67C6B7CA16A64264B.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset'
+[2021.01.31-14.20.34:489][537]AssetCheck: New page: Asset Save: WBP_EndGame
+[2021.01.31-14.20.34:489][537]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_EndGame.WBP_EndGame
+[2021.01.31-14.20.39:280][657]LogEditorTransaction: Undo Edit Image
+[2021.01.31-14.21.05:556][278]BlueprintLog: New page: Compile WBP_EndGame
+[2021.01.31-14.21.05:609][278]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.01.31-14.21.06:481][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_EndGame" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset" SILENT=true
+[2021.01.31-14.21.06:525][296]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_EndGame0ADFA0A64BCD0F7CECB70F950C02DD67.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset'
+[2021.01.31-14.21.06:537][296]AssetCheck: New page: Asset Save: WBP_EndGame
+[2021.01.31-14.21.06:537][296]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_EndGame.WBP_EndGame
+[2021.01.31-14.22.17:144][ 92]BlueprintLog: New page: Compile WBP_EndGame
+[2021.01.31-14.22.17:202][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.01.31-14.22.17:632][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_EndGame" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset" SILENT=true
+[2021.01.31-14.22.17:674][100]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_EndGame5C8C341244DC5E252784CCB5F7D9CA73.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset'
+[2021.01.31-14.22.17:687][100]AssetCheck: New page: Asset Save: WBP_EndGame
+[2021.01.31-14.22.17:687][100]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_EndGame.WBP_EndGame
+[2021.01.31-14.22.41:654][731]BlueprintLog: New page: Compile WBP_EndGame
+[2021.01.31-14.22.41:708][731]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.01.31-14.22.42:085][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_EndGame" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset" SILENT=true
+[2021.01.31-14.22.42:130][739]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_EndGameAA6A51A343837D0DFF7EAD972724ADD5.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_EndGame.uasset'
+[2021.01.31-14.22.42:141][739]AssetCheck: New page: Asset Save: WBP_EndGame
+[2021.01.31-14.22.42:141][739]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_EndGame.WBP_EndGame
+[2021.01.31-14.22.44:505][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.01.31-14.22.44:532][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/MY_Map" FILE="D:/GameProjects/LostBat/Content/MY_BP/MY_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.31-14.22.44:573][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.01.31-14.22.44:617][810]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/MY_MapB403A7DF4CB58E95E5423DBB0461AAFB.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/MY_Map.umap'
+[2021.01.31-14.22.44:662][810]LogFileHelpers: Saving map 'MY_Map' took 0.130
+[2021.01.31-14.22.44:662][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/MY_Map_BuiltData" FILE="D:/GameProjects/LostBat/Content/MY_BP/MY_Map_BuiltData.uasset" SILENT=true
+[2021.01.31-14.22.44:678][810]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/MY_Map_BuiltData87B198774215175FD49BF196F5930025.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/MY_Map_BuiltData.uasset'
+[2021.01.31-14.22.44:693][810]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-14.22.44:693][810]LogContentValidation: Display: Validating World /Game/MY_BP/MY_Map.MY_Map
+[2021.01.31-14.22.44:693][810]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MY_BP/MY_Map_BuiltData.MY_Map_BuiltData
+[2021.01.31-14.22.54:386][ 83]LogEditorViewport: Clicking on Actor (LMB): BP_BatRelative_C (BP_BatRelative2)
+[2021.01.31-14.23.03:614][284]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MY_BP/Widgets/WBP_SplashMama.WBP_SplashMama
+[2021.01.31-14.23.25:177][759]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-14.23.25:233][759]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.01.31-14.23.25:234][759]LogPlayLevel: [PlayLevel] Compiling WBP_StarterScreen before play...
+[2021.01.31-14.23.25:285][759]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.01.31-14.23.25:286][759]LogPlayLevel: PlayLevel: Blueprint regeneration took 52 ms (1 blueprints)
+[2021.01.31-14.23.25:287][759]PIE: New page: PIE session: MY_Map (Jan 31, 2021, 2:23:25 PM)
+[2021.01.31-14.23.25:289][759]LogPlayLevel: Creating play world package: /Game/MY_BP/UEDPIE_0_MY_Map
+[2021.01.31-14.23.25:292][759]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002775s)
+[2021.01.31-14.23.25:293][759]LogAIModule: Creating AISystem for world MY_Map
+[2021.01.31-14.23.25:293][759]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023462AB8E00), frame # 174759
+[2021.01.31-14.23.25:293][759]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000234F90FD440), frame # 174759
+[2021.01.31-14.23.25:294][759]LogPlayLevel: PIE: World Init took: (0.002644s)
+[2021.01.31-14.23.25:294][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MY_BP/MY_Map.MY_Map to /Game/MY_BP/UEDPIE_0_MY_Map.MY_Map (0.005592s)
+[2021.01.31-14.23.25:320][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.01.31-14.23.25:323][759]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-14.23.25:323][759]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-14.23.25:323][759]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-14.23.25:323][759]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-14.23.25:323][759]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-14.23.25:323][759]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-14.23.25:323][759]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-14.23.25:324][759]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-14.23.25:327][759]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-14.23.25:327][759]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-14.23.25:334][759]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-14.23.25:334][759]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-14.23.25:350][759]LogAudioMixer: Display: Using Audio Device Headphones (Synaptics HD Audio)
+[2021.01.31-14.23.25:351][759]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-14.23.25:351][759]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-14.23.25:351][759]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-14.23.25:352][759]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-14.23.25:364][759]LogInit: FAudioDevice initialized.
+[2021.01.31-14.23.25:394][759]LogLoad: Game class is 'MY_GM_C'
+[2021.01.31-14.23.25:474][759]LogWorld: Bringing World /Game/MY_BP/UEDPIE_0_MY_Map.MY_Map up for play (max tick rate 0) at 2021.01.31-14.23.25
+[2021.01.31-14.23.25:475][759]LogWorld: Bringing up level for play took: 0.079187
+[2021.01.31-14.23.25:479][759]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.01.31-14.23.25:540][759]PIE: Warning: The widget 'HUD_C' was already added to the screen.
+[2021.01.31-14.23.25:541][759]PIE: Server logged in
+[2021.01.31-14.23.25:542][759]PIE: Play in editor total start time 0.314 seconds.
+[2021.01.31-14.23.29:080][891]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.01.31-14.23.37:992][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-14.23.37:992][218]LogWorld: BeginTearingDown for /Game/MY_BP/UEDPIE_0_MY_Map
+[2021.01.31-14.23.37:993][218]LogWorld: UWorld::CleanupWorld for MY_Map, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-14.23.38:022][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-14.23.38:040][218]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-14.23.38:044][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-14.23.38:080][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-14.23.38:101][218]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000234F90FD440), frame # 175218
+[2021.01.31-14.23.38:101][218]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023462AB8E00), frame # 175218
+[2021.01.31-14.23.38:102][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.01.31-14.23.38:228][219]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.01.31-14.23.39:789][256]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-14.23.39:854][256]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-14.24.04:764][776]BlueprintLog: New page: Compile WBP_SplashMama
+[2021.01.31-14.24.04:846][776]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.01.31-14.24.05:437][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_SplashMama" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashMama.uasset" SILENT=true
+[2021.01.31-14.24.05:489][787]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_SplashMamaE3B1FA0F4A9340579525C3A19B8DE37C.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashMama.uasset'
+[2021.01.31-14.24.05:504][787]AssetCheck: New page: Asset Save: WBP_SplashMama
+[2021.01.31-14.24.05:504][787]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_SplashMama.WBP_SplashMama
+[2021.01.31-14.24.08:405][854]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MY_BP/Widgets/WBP_SplashKiki.WBP_SplashKiki
+[2021.01.31-14.24.22:526][143]BlueprintLog: New page: Compile WBP_SplashKiki
+[2021.01.31-14.24.22:600][143]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.01.31-14.24.23:012][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_SplashKiki" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashKiki.uasset" SILENT=true
+[2021.01.31-14.24.23:052][150]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_SplashKiki25A7E0AF4F7400341C5590955535E003.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashKiki.uasset'
+[2021.01.31-14.24.23:066][150]AssetCheck: New page: Asset Save: WBP_SplashKiki
+[2021.01.31-14.24.23:066][150]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_SplashKiki.WBP_SplashKiki
+[2021.01.31-14.24.39:204][468]BlueprintLog: New page: Compile WBP_SplashKiki
+[2021.01.31-14.24.39:299][468]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.01.31-14.24.51:441][717]BlueprintLog: New page: Compile WBP_SplashMama
+[2021.01.31-14.24.51:523][717]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.01.31-14.24.52:727][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_SplashMama" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashMama.uasset" SILENT=true
+[2021.01.31-14.24.52:758][741]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_SplashMama3A629335497774D93306C493D48005FB.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashMama.uasset'
+[2021.01.31-14.24.52:770][741]AssetCheck: New page: Asset Save: WBP_SplashMama
+[2021.01.31-14.24.52:770][741]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_SplashMama.WBP_SplashMama
+[2021.01.31-14.24.57:780][864]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MY_BP/Widgets/WBP_SplashPapa.WBP_SplashPapa
+[2021.01.31-14.25.11:740][146]BlueprintLog: New page: Compile WBP_SplashPapa
+[2021.01.31-14.25.11:820][146]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.01.31-14.25.12:411][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_SplashPapa" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashPapa.uasset" SILENT=true
+[2021.01.31-14.25.12:444][157]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_SplashPapa56E4C052488D18A710836CBD7911C78A.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashPapa.uasset'
+[2021.01.31-14.25.12:455][157]AssetCheck: New page: Asset Save: WBP_SplashPapa
+[2021.01.31-14.25.12:455][157]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_SplashPapa.WBP_SplashPapa
+[2021.01.31-14.25.15:683][231]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MY_BP/Widgets/WBP_SplashGramps.WBP_SplashGramps
+[2021.01.31-14.25.29:914][513]BlueprintLog: New page: Compile WBP_SplashGramps
+[2021.01.31-14.25.29:984][513]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.01.31-14.25.30:498][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_SplashGramps" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashGramps.uasset" SILENT=true
+[2021.01.31-14.25.30:538][521]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_SplashGrampsCF9D96CB4762E4A3F9C3A0AF6E03BFEC.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashGramps.uasset'
+[2021.01.31-14.25.30:552][521]AssetCheck: New page: Asset Save: WBP_SplashGramps
+[2021.01.31-14.25.30:552][521]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_SplashGramps.WBP_SplashGramps
+[2021.01.31-14.25.33:032][574]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-14.25.33:105][574]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-14.25.33:105][574]PIE: New page: PIE session: MY_Map (Jan 31, 2021, 2:25:33 PM)
+[2021.01.31-14.25.33:105][574]LogPlayLevel: Creating play world package: /Game/MY_BP/UEDPIE_0_MY_Map
+[2021.01.31-14.25.33:110][574]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004185s)
+[2021.01.31-14.25.33:111][574]LogAIModule: Creating AISystem for world MY_Map
+[2021.01.31-14.25.33:111][574]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000234DBD9A000), frame # 177574
+[2021.01.31-14.25.33:111][574]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000235116CC900), frame # 177574
+[2021.01.31-14.25.33:111][574]LogPlayLevel: PIE: World Init took: (0.001493s)
+[2021.01.31-14.25.33:111][574]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MY_BP/MY_Map.MY_Map to /Game/MY_BP/UEDPIE_0_MY_Map.MY_Map (0.005847s)
+[2021.01.31-14.25.33:152][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.01.31-14.25.33:153][574]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-14.25.33:153][574]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-14.25.33:153][574]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-14.25.33:153][574]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-14.25.33:153][574]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-14.25.33:153][574]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-14.25.33:153][574]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-14.25.33:153][574]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-14.25.33:154][574]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-14.25.33:154][574]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-14.25.33:159][574]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-14.25.33:159][574]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-14.25.33:173][574]LogAudioMixer: Display: Using Audio Device Headphones (Synaptics HD Audio)
+[2021.01.31-14.25.33:173][574]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-14.25.33:173][574]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-14.25.33:173][574]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-14.25.33:173][574]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-14.25.33:186][574]LogInit: FAudioDevice initialized.
+[2021.01.31-14.25.33:197][574]LogLoad: Game class is 'MY_GM_C'
+[2021.01.31-14.25.33:240][574]LogWorld: Bringing World /Game/MY_BP/UEDPIE_0_MY_Map.MY_Map up for play (max tick rate 0) at 2021.01.31-14.25.33
+[2021.01.31-14.25.33:240][574]LogWorld: Bringing up level for play took: 0.041920
+[2021.01.31-14.25.33:240][574]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2021.01.31-14.25.33:282][574]PIE: Warning: The widget 'HUD_C' was already added to the screen.
+[2021.01.31-14.25.33:283][574]PIE: Server logged in
+[2021.01.31-14.25.33:284][574]PIE: Play in editor total start time 0.179 seconds.
+[2021.01.31-14.25.37:111][719]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.01.31-14.25.50:559][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-14.25.50:559][222]LogWorld: BeginTearingDown for /Game/MY_BP/UEDPIE_0_MY_Map
+[2021.01.31-14.25.50:559][222]LogWorld: UWorld::CleanupWorld for MY_Map, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-14.25.50:579][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-14.25.50:593][222]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-14.25.50:598][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-14.25.50:662][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-14.25.50:663][222]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000235116CC900), frame # 178222
+[2021.01.31-14.25.50:664][222]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000234DBD9A000), frame # 178222
+[2021.01.31-14.25.50:666][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.01.31-14.25.50:808][223]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2021.01.31-14.25.52:605][264]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-14.25.52:676][264]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-14.25.53:532][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/MY_Map" FILE="D:/GameProjects/LostBat/Content/MY_BP/MY_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.31-14.25.53:572][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.01.31-14.25.53:595][284]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/MY_MapCD51BAAE44932FB6388BDB8B1BF8062B.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/MY_Map.umap'
+[2021.01.31-14.25.53:631][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/MY_Map_BuiltData" FILE="D:/GameProjects/LostBat/Content/MY_BP/MY_Map_BuiltData.uasset" SILENT=true
+[2021.01.31-14.25.53:644][284]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/MY_Map_BuiltData629CC3494CC29EC4E76337830BC09ACA.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/MY_Map_BuiltData.uasset'
+[2021.01.31-14.25.53:659][284]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-14.25.53:659][284]LogContentValidation: Display: Validating World /Game/MY_BP/MY_Map.MY_Map
+[2021.01.31-14.25.53:659][284]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MY_BP/MY_Map_BuiltData.MY_Map_BuiltData
+[2021.01.31-14.25.53:779][286]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.01.31-14.25.53:796][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/Widgets/WBP_SplashKiki" FILE="D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashKiki.uasset" SILENT=true
+[2021.01.31-14.25.53:826][286]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/WBP_SplashKiki790B5DE748836F63AF4BB9AA890A43A0.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/Widgets/WBP_SplashKiki.uasset'
+[2021.01.31-14.25.53:839][286]AssetCheck: New page: Asset Save: WBP_SplashKiki
+[2021.01.31-14.25.53:839][286]LogContentValidation: Display: Validating WidgetBlueprint /Game/MY_BP/Widgets/WBP_SplashKiki.WBP_SplashKiki
+[2021.01.31-14.25.56:838][361]LogEditorViewport: Clicking on Actor (LMB): BP_BatRelative_C (BP_BatRelative2)
+[2021.01.31-14.26.04:142][532]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Caves)
+[2021.01.31-14.26.05:466][551]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Caves)
+[2021.01.31-14.26.06:264][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/MY_Map" FILE="D:/GameProjects/LostBat/Content/MY_BP/MY_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.31-14.26.06:313][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.01.31-14.26.06:350][564]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/MY_Map4D90FDDE4E3942D8839DA3BBEF893184.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/MY_Map.umap'
+[2021.01.31-14.26.06:381][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MY_BP/MY_Map_BuiltData" FILE="D:/GameProjects/LostBat/Content/MY_BP/MY_Map_BuiltData.uasset" SILENT=true
+[2021.01.31-14.26.06:394][564]LogSavePackage: Moving 'D:/GameProjects/LostBat/Saved/MY_Map_BuiltData0B40F20441AF279161EFA98D9565765F.tmp' to 'D:/GameProjects/LostBat/Content/MY_BP/MY_Map_BuiltData.uasset'
+[2021.01.31-14.26.06:409][564]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-14.26.06:409][564]LogContentValidation: Display: Validating World /Game/MY_BP/MY_Map.MY_Map
+[2021.01.31-14.26.06:409][564]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MY_BP/MY_Map_BuiltData.MY_Map_BuiltData
+[2021.01.31-14.26.06:538][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.01.31-14.26.20:748][819]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.31-14.26.20:820][819]LogSlate: Window 'Project Settings' being destroyed
